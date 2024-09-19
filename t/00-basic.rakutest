@@ -9,7 +9,7 @@ ok( $stats, "Can create object");
 my @objetivos-cumplidos = $stats.objetivos-cumplidos();
 if @objetivos-cumplidos[0].elems > 0 {
     my @max-estudiantes = @objetivos-cumplidos.max;
-    my $max-objetivo = @objetivos-cumplidos.elems - 1;
+    my $max-objetivo = @objetivos-cumplidos.grep( * != ∅).elems - 1;
     my $estudiante = @max-estudiantes[0][0];
 
     my $objetivos = $stats.objetivos-de($estudiante);
@@ -20,8 +20,7 @@ if @objetivos-cumplidos[0].elems > 0 {
     cmp-ok($stats.entregas-de($estudiante),
             ">=", $max-objetivo,
             "Entregas hechas");
-    ok($estudiante ∈ $stats.cumple-objetivo($max-objetivo - 1),
-    "Conjuntos creados");
+    ok($estudiante ∈ $stats.cumple-objetivo($max-objetivo), "Conjuntos creados");
     ok($estudiante ∈ $stats.hecha-entrega($max-objetivo), "Entregas hechas");
     ok($stats.bajas-objetivos(0), "Devuelve bajas objetivos");
     ok($stats.bajas-totales(0), "Devuelve bajas totales");
