@@ -8,7 +8,7 @@ has @!fechas-entregas;
 
 submethod BUILD( :@!fechas-entregas) {}
 
-method new() {
+method new( Str $excluded-user = "JJ" ) {
     my @student-list = lista-estudiantes();
     my $file-history = Git::File::History.new(:glob("proyectos/objetivo-*.md"));
     my @fechas-entregas;
@@ -21,6 +21,7 @@ method new() {
             my %estado-objetivos = estado-objetivos(
                     @student-list, $this-version, $objetivo );
             for %estado-objetivos.kv -> $estudiante, %estado {
+                next if $estudiante eq $excluded-user;
                 my $estado-actual =
                         @fechas-entregas[$objetivo]{$estudiante}<entrega>;
                 given %estado<estado> {
