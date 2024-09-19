@@ -6,7 +6,7 @@
 | <!-- Enlace de jacarmona364 --> | | |
 | <!-- Enlace de C L L M --> | | |
 | <!-- Enlace de C R F I --> | | |
-| <!-- Enlace de C E J A --> | | |
+| <!-- Enlace de JuananCruz --> | | |
 | <!-- Enlace de FerniCuesta --> | | |
 | <!-- Enlace de D L --> | | |
 | <!-- Enlace de adiazcencillo --> | | |
