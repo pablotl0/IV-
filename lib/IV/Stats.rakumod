@@ -28,6 +28,7 @@ method new(Str $file = "{ PROYECTOS }usuarios.md") {
         @objetivos[$objetivo] = set();
         @entregas[$objetivo] = set();
         for @student-list -> $usuario {
+            if %estado-objetivos{$usuario} {
             my $estado-objetivo = %estado-objetivos{$usuario};
             if $estado-objetivo<estado> == CUMPLIDO  {
                 %students{$usuario}<objetivos> ∪= +$objetivo;
@@ -35,8 +36,11 @@ method new(Str $file = "{ PROYECTOS }usuarios.md") {
             } elsif $estado-objetivo<estado> == ENVIADO {
                 %students{$usuario}<entrega> = +$objetivo;
                 @entregas[$objetivo] ∪= $usuario;
+
             }
+
             %versiones{$usuario} = $estado-objetivo<version>;
+            }
         }
     }
     self.bless(:@student-list, :%students, :@objetivos, :@entregas, :%versiones);
