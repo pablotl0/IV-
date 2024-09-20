@@ -9,7 +9,7 @@ iniciales.
 | URL                                  | Versión | Alcanzado |
 |--------------------------------------|---------|-----------|
 | <!-- Enlace de A E S --> | | |
-| <!-- Enlace de juanmaaf --> | | |
+| [Enlace de juanmaaf](https://github.com/juanmaaf/Time-MoneyController/pull/1) | v0.0.1 | |
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/1) | v0.0.3 | ✓ |
 | <!-- Enlace de B R J --> | | |
 | <!-- Enlace de sweetiepitie --> | | |
