@@ -44,7 +44,7 @@ iniciales.
 | <!-- Enlace de R C P --> | | |
 | <!-- Enlace de mrh117 --> | | |
 | <!-- Enlace de R D R L --> | | |
-| <!-- Enlace de MarioRgzLpz --> | | |
+| [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/1) | v0.0.1 | |
 | <!-- Enlace de R R A --> | | |
 | <!-- Enlace de eigenric --> | | |
 | <!-- Enlace de enger2003 --> | | |
