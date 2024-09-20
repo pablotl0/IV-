@@ -19,7 +19,7 @@ jobs:
         echo "files=$(git show --pretty="" --name-only HEAD)" >> $GITHUB_OUTPUT
         cat $GITHUB_OUTPUT
     - name: Avisar si se está editando un fichero que no es del estudiante
-      if: ${{ github.event.pull_request.user.login != "JJ" && ! startsWith(steps.changed_files.outputs.files,"proyectos/objetivo") }}
+      if: ${{ github.event.pull_request.user.login != 'JJ' && ! startsWith(steps.changed_files.outputs.files,'proyectos/objetivo') }}
       env:
         FILE_CHANGED:${{steps.changed_files.outputs.files}}
       run: echo "::warning file=$FILE__CHANGED::Probablemente no es lo que quieres hacer para entregar un objetivo"
