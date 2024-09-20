@@ -25,16 +25,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Descarga fuente
         uses: actions/checkout@v4
-      - name: Ficheros cambiados
-        id: changed_files
-        run:
-          echo "files=$(git show --pretty="" --name-only HEAD)" >> $GITHUB_OUTPUT
-          cat $GITHUB_OUTPUT
-      - name: Avisar si se está editando un fichero que no es del estudiante
-        if: ${{ steps.pr_info.outputs.user != "JJ" && ! startsWith(steps.changed_files.outputs.files,"proyectos/objetivo") }}
-        env:
-          FILE_CHANGED:${{steps.changed_files.outputs.files}}
-        run: echo "::warning file=$FILE__CHANGED::Probablemente no es lo que quieres hacer para entregar un objetivo"
       - name: Comprueba versión
         env:
           THIS_VERSION: ${{ steps.pr_info.outputs.version }}
