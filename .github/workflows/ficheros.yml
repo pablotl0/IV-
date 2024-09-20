@@ -12,7 +12,8 @@ jobs:
         bodyContains: "] NOCERRAR"
         bodyDoesNotContain: "Borrar"
         filesChanged: 1
-
+    - name: Descarga fuente
+      uses: actions/checkout@v4
     - name: Ficheros cambiados
       id: changed_files
       run: |
