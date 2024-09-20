@@ -34,7 +34,6 @@ jobs:
         uses: actions/github-script@v7
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
-
           script: |
             const {all_good, sorry } = require("./lib/mensajes.js")
             const user = "${{ steps.pr_info.outputs.user }}"
