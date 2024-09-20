@@ -49,7 +49,7 @@ iniciales.
 | <!-- Enlace de eigenric --> | | |
 | <!-- Enlace de enger2003 --> | | |
 | <!-- Enlace de R S A --> | | |
-| <!-- Enlace de S L K --> | | |
+| [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)| v0.0.2 | |
 | <!-- Enlace de ChinChainis --> | | |
 | <!-- Enlace de S V A B S --> | | |
 | <!-- Enlace de T L P --> | | |
