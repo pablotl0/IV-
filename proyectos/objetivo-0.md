@@ -25,7 +25,7 @@ iniciales.
 | <!-- Enlace de Antoniogm03 --> | | |
 | <!-- Enlace de G M F J --> | | |
 | <!-- Enlace de G P S --> | | |
-| <!-- Enlace de evaanngiil --> | | |
+| [Enlace de evaanngiil] (https://github.com/evaanngiil/PresentCreator/pull/1) | v0.0.1 | |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/1) | v0.0.1 | |
 | <!-- Enlace de GaelGoncalvesAlba --> | | |
 | <!-- Enlace de abbonno --> | | |
