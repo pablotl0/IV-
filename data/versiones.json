@@ -2,11 +2,13 @@ giorgiogiovanni tiene estado
 FabriConde tiene estado
 evaanngiil tiene estado
 blancagiron tiene estado
+MarioRgzLpz tiene estado
 eigenric tiene estado
 {
-  "FabriConde": "0.0.1",
-  "blancagiron": "0.0.1",
   "giorgiogiovanni": "0.0.3",
+  "MarioRgzLpz": "0.0.2",
   "evaanngiil": "0.0.2",
-  "eigenric": "0.0.2"
+  "blancagiron": "0.0.1",
+  "eigenric": "0.0.2",
+  "FabriConde": "0.0.1"
 }
