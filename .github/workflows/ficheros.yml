@@ -14,6 +14,8 @@ jobs:
         filesChanged: 1
     - name: Descarga fuente
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 2
     - name: Ficheros cambiados
       id: changed_files
       run: |
