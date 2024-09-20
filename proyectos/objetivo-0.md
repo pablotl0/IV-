@@ -46,7 +46,7 @@ iniciales.
 | <!-- Enlace de R D R L --> | | |
 | <!-- Enlace de MarioRgzLpz --> | | |
 | <!-- Enlace de R R A --> | | |
-| <!-- Enlace de eigenric --> | | |
+| [Enlace de eigenric](https://github.com/eigenric/lyricfeel/pull/1) | v0.0.2 | |
 | <!-- Enlace de enger2003 --> | | |
 | <!-- Enlace de R S A --> | | |
 | [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)| v0.0.2 | |
