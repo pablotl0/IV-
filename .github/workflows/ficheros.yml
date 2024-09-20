@@ -19,4 +19,4 @@ jobs:
       if: ${{ github.event.pull_request.user.login != 'JJ' && ! startsWith(steps.changed-files.outputs.all_changed_files,'proyectos/objetivo') }}
       env:
         FILE_CHANGED: ${{steps.changed_files.outputs.files}}
-      run: echo "::warning file=$FILE__CHANGED::Probablemente no es lo que quieres hacer para entregar un objetivo"
+      run: echo "::warning file=$FILE__CHANGED::Cambiar $(FILE_CHANGED) probablemente no es lo que quieres hacer para entregar un objetivo"
