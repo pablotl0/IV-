@@ -45,7 +45,7 @@ iniciales.
 | <!-- Enlace de mrh117 --> | | |
 | <!-- Enlace de R D R L --> | | |
 | [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/1) | v0.0.2 | |
-| [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/1) | v0.0.1 | |
+| [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/1) | v0.0.1 | | 
 | [Enlace de eigenric](https://github.com/eigenric/lyricfeel/pull/1) | v0.0.2 | |
 | <!-- Enlace de enger2003 --> | | |
 | <!-- Enlace de R S A --> | | |
