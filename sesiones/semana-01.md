@@ -61,6 +61,38 @@ Lista de comprobación:
   incluyendo eliminación de la distinción teoría/prácticas y las
   consecuencias que trae.
   * [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
+  * Bases de la evaluación formativa, basada en objetivos:
+    * Los objetivos se pre-evalúan automáticamente usando sistemas
+  integrados en GitHub. Cuando los indicadores están en rojo, es que
+  ha habido algún error. Hay que pinchar en el mismo y navegar hasta
+  encontrar el error concreto en la página del sistema que lanza los
+  tests.
+    * *Cómo se va a usar la evaluación formativa*: los tests automáticos indicarán
+  si se han alcanzado los objetivos mínimos, a través del pull request que se
+  haga se indicará qué es necesario para cubrir el resto de los objetivos. Los
+  objetivos alcanzados se calificarán al final de la asignatura según la
+  dificultad de los mismos.
+    * En el momento que se alcance el quinto objetivo, se puede
+    solicitar al profesor calificación del 30% restante para
+    abandonar, si se desea, la asignatura.
+    * Para "entregar" cada objetivo:
+      * Se crea una rama específica por objetivo en el repositorio del proyecto
+      *del estudiante*.
+      * Se hace un PR **a uno mismo, en el mismo repositorio** indicando qué
+    cambios se han hecho para alcanzar este objetivo *y siguiendo la lista de
+    comprobación*.
+    * Se incluye en el fichero `objetivos-x.md` *de este repositorio*
+    un *enlace al pull request* desde el que se esté haciendo el PR.
+    * En la columna correspondiente se tendrá que incluir una versión del envío
+      siguiendo las reglas comunes en versiones, y las indicadas en el guión del
+      objetivo. Si han fallado los tests y hay que enviar de nuevo, habrá que
+      incrementar la versión.
+    * Una vez fusionado el PR *en este repositorio*, el profesor revisará el PR
+      *del estudiante* haciendo indicaciones para que el estudiante supere el
+      objetivo en otro caso.
+    * Hay que esperar que el profesor apruebe el PR *de nuestro repositorio*, es
+    decir, el objetivo se considere alcanzado, para fusionarlo.
+
 * **Juego de rol**: formular y entender un problema para abordar en la asignatura.
 
 #### Entrando en materia
@@ -99,38 +131,6 @@ mismo](http://jj.github.io/IV/documentos/actividades).
 * Entender git a través de esta [introducción a
 git](http://jj.github.io/IV/preso/git.html#/), y las buenas prácticas de uso de
 GitHub.
-
-* Bases de la evaluación formativa, basada en objetivos:
-  * Los objetivos se pre-evalúan automáticamente usando sistemas
-  integrados en GitHub. Cuando los indicadores están en rojo, es que
-  ha habido algún error. Hay que pinchar en el mismo y navegar hasta
-  encontrar el error concreto en la página del sistema que lanza los
-  tests.
-  * *Cómo se va a usar la evaluación formativa*: los tests automáticos indicarán
-  si se han alcanzado los objetivos mínimos, a través del pull request que se
-  haga se indicará qué es necesario para cubrir el resto de los objetivos. Los
-  objetivos alcanzados se calificarán al final de la asignatura según la
-  dificultad de los mismos.
-  * En el momento que se alcance el quinto objetivo, se puede
-    solicitar al profesor calificación del 30% restante para
-    abandonar, si se desea, la asignatura.
-  * Para "entregar" cada objetivo:
-    * Se crea una rama específica por objetivo en el repositorio del proyecto
-      *del estudiante*.
-    * Se hace un PR **a uno mismo, en el mismo repositorio** indicando qué
-    cambios se han hecho para alcanzar este objetivo *y siguiendo la lista de
-    comprobación*.
-    * Se incluye en el fichero `objetivos-x.md` *de este repositorio*
-    un *enlace al pull request* desde el que se esté haciendo el PR.
-    * En la columna correspondiente se tendrá que incluir una versión del envío
-      siguiendo las reglas comunes en versiones, y las indicadas en el guión del
-      objetivo. Si han fallado los tests y hay que enviar de nuevo, habrá que
-      incrementar la versión.
-    * Una vez fusionado el PR *en este repositorio*, el profesor revisará el PR
-      *del estudiante* haciendo indicaciones para que el estudiante supere el
-      objetivo en otro caso.
-    * Hay que esperar que el profesor apruebe el PR *de nuestro repositorio*, es
-    decir, el objetivo se considere alcanzado, para fusionarlo.
 
 * [Entender el objetivo 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) que se revisará
 sobre la marcha (dentro de lo posible).
