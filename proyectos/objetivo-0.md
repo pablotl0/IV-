@@ -40,7 +40,7 @@ iniciales.
 | <!-- Enlace de N G P --> | | |
 | <!-- Enlace de Carlosmapego8 --> | | |
 | <!-- Enlace de P B H --> | | |
-| <!-- Enlace de Mario25402 --> | [Enlace de Mario25402](https://github.com/Mario25402/Calendar/pull/2) | v0.0.2 |
+| <!-- Enlace de Mario25402 --> [Enlace de Mario25402](https://github.com/Mario25402/Calendar/pull/2) | v0.0.2 | |
 | <!-- Enlace de R C P --> | | |
 | <!-- Enlace de mrh117 --> | | |
 | <!-- Enlace de R D R L --> | | |
