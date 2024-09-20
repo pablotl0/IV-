@@ -10,10 +10,13 @@ my %objetivos-cumplidos = estado-objetivos(
         @student-list,
         $contenido,
         OBJETIVO );
-cmp-ok( %objetivos-cumplidos.keys.elems, ">=", 0, "Objetivos cumplidos correctos" );
+my $objetivos-realmente-complidos = %objetivos-cumplidos.keys.elems;
+cmp-ok( $objetivos-realmente-complidos, ">=", 0, "Objetivos cumplidos correctos" );
 
-my $primer-estudiante = %objetivos-cumplidos.keys()[0];
-cmp-ok( %objetivos-cumplidos{$primer-estudiante}<version>, ">=", v0.0.1);
+if ($objetivos-realmente-complidos > 0 ) {
+        my $primer-estudiante = %objetivos-cumplidos.keys()[0];
+        cmp-ok( %objetivos-cumplidos{$primer-estudiante}<version>, ">=", v0.0.1);
+}
 
 if "proyectos/objetivo-9.md".IO.e {
     $contenido = "proyectos/objetivo-9.md".IO.slurp;
