@@ -16,7 +16,6 @@ iniciales.
 | <!-- Enlace de jacarmona364 --> | | |
 | <!-- Enlace de C L L M --> | | |
 | [IV-24-25 FabriConde] (https://github.com/FabriConde/IV-2024-2025/pull/1) |v0.0.1 | |
-| <!-- Enlace de JuananCruz --> | | |
 | <!-- Enlace de FerniCuesta --> | | |
 | <!-- Enlace de D L --> | | |
 | <!-- Enlace de adiazcencillo --> | | |
