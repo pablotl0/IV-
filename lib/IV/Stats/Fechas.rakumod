@@ -53,6 +53,7 @@ method new( Str $excluded-user = "JJ" ) {
 }
 
 method entregas-de( Int $objetivo, Str $estudiante ){
+    say "Entregas ", @!fechas-entregas[$objetivo]{$estudiante};
     return @!fechas-entregas[$objetivo]{$estudiante};
 }
 
