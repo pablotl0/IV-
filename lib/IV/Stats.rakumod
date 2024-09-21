@@ -29,7 +29,6 @@ method new(Str $file = "{ PROYECTOS }usuarios.md") {
         @entregas[$objetivo] = set();
         for @student-list -> $usuario {
             if %estado-objetivos{$usuario} {
-                say "$usuario tiene estado";
                 my $estado-objetivo = %estado-objetivos{$usuario};
                 if $estado-objetivo<estado> == CUMPLIDO  {
                     %students{$usuario}<objetivos> ∪= +$objetivo;
