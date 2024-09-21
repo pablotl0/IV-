@@ -32,6 +32,7 @@ iniciales.
 | <!-- Enlace de H M --> | | |
 | <!-- Enlace de I M --> | | |
 | <!-- Enlace de L D C L M C --> | | |
+| <!-- Enlace de L B J --> | | |
 | <!-- Enlace de L A J A --> | | |
 | <!-- Enlace de M M N --> [Enlace de nuriamanzanomata](https://github.com/mmnuria/PersonalSportCalendary/pull/1) | v0.0.1 | |
 | <!-- Enlace de M S C --> | | |
