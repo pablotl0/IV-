@@ -31,7 +31,7 @@ iniciales.
 | <!-- Enlace de H M -->                                                                                          |         |           |
 | <!-- Enlace de MatteoImbrosciano -->                                                                            |         |           |
 | <!-- Enlace de L D C L M C -->                                                                                  |         |           |
-| [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/1)                                    |         |           |
+| [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/1)                                    | v0.0.1  |           |
 | <!-- Enlace de joselopez10014 -->                                                                               |         |           |
 | <!-- Enlace de M M N --> [Enlace de nuriamanzanomata](https://github.com/mmnuria/PersonalSportCalendary/pull/1) | v0.0.1  |           |
 | <!-- Enlace de M S C -->                                                                                        |         |           |
