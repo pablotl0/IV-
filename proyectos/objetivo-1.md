@@ -22,7 +22,6 @@ iniciales.
 | <!-- Enlace de hossam1522 -->          |         |           |
 | <!-- Enlace de clara99gf -->           |         |           |
 | <!-- Enlace de Antoniogm03 -->         |         |           |
-| <!-- Enlace de G M F J -->             |         |           |
 | <!-- Enlace de SantiGarvin -->         |         |           |
 | <!-- Enlace de evaanngiil -->          |         |           |
 | <!-- Enlace de blancagiron -->         |         |           |
