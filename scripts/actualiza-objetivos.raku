@@ -8,6 +8,13 @@ shift @lines-objetivos;
 for @lines-objetivos.kv -> $i, $line {
     next if $line ~~ /github/;
     next if $line eq @lines-usuarios[$i];
+    $line ~~ /"Enlace de " $<iniciales>=(.+?) \s+ "-->"/;
+    my $iniciales = $<iniciales>;
+    @lines-usuarios[$i] ~~ /"Enlace de " $<iniciales-prima>=(.+?) \s+ "-->"/;
+    my $iniciales-prima = $<iniciales-prima>;
+    if $iniciales ne $iniciales-prima {
+        $objetivo-file ~~ s:g/ $iniciales /$iniciales-prima/;
+    }
 }
 
 say $objetivo-file;

@@ -11,39 +11,39 @@ iniciales.
 | <!-- Enlace de A E S -->                                                                                        |         |           |
 | [Enlace de juanmaaf](https://github.com/juanmaaf/Time-MoneyController/pull/1)                                   | v0.0.1  |           |
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/1)                            | v0.0.3  | ✓         |
-| <!-- Enlace de B R J -->                                                                                        |         |           |
+| <!-- Enlace de juanbarearojo -->                                                                                        |         |           |
 | <!-- Enlace de sweetiepitie -->                                                                                 |         |           |
 | <!-- Enlace de jacarmona364 -->                                                                                 |         |           |
-| <!-- Enlace de C L L M -->                                                                                      |         |           |
+| <!-- Enlace de lmchaves -->                                                                                      |         |           |
 | [IV-24-25 FabriConde] (https://github.com/FabriConde/IV-2024-2025/pull/1)                                       | v0.0.1  |           |
 | <!-- Enlace de FerniCuesta -->                                                                                  |         |           |
-| <!-- Enlace de D L -->                                                                                          |         |           |
+| <!-- Enlace de "1E04" -->                                                                                          |         |           |
 | <!-- Enlace de adiazcencillo -->                                                                                |         |           |
 | <!-- Enlace de hossam1522 -->                                                                                   |         |           |
 | <!-- Enlace de clara99gf -->                                                                                    |         |           |
 | <!-- Enlace de Antoniogm03 -->                                                                                  |         |           |
 | <!-- Enlace de G M F J -->                                                                                      |         |           |
-| <!-- Enlace de G P S -->                                                                                        |         |           |
+| <!-- Enlace de SantiGarvin -->                                                                                        |         |           |
 | [Enlace de evaanngiil](https://github.com/evaanngiil/PresentCreator/pull/1)                                     | v0.0.2  |           |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/1)                                     | v0.0.1  | ✓         |
 | <!-- Enlace de GaelGoncalvesAlba -->                                                                            |         |           |
 | <!-- Enlace de abbonno -->                                                                                      |         |           |
 | [Enlace de davidgutierrezperez](https://github.com/davidgutierrezperez/Axel/pull/1)                             | v0.0.1  |           |
 | <!-- Enlace de H M -->                                                                                          |         |           |
-| <!-- Enlace de I M -->                                                                                          |         |           |
+| <!-- Enlace de MatteoImbrosciano -->                                                                                          |         |           |
 | <!-- Enlace de L D C L M C -->                                                                                  |         |           |
-| <!-- Enlace de L B J -->                                                                                        |         |           |
-| <!-- Enlace de L A J A -->                                                                                      |         |           |
+| <!-- Enlace de JLombar -->                                                                                        |         |           |
+| <!-- Enlace de joselopez10014 -->                                                                                      |         |           |
 | <!-- Enlace de M M N --> [Enlace de nuriamanzanomata](https://github.com/mmnuria/PersonalSportCalendary/pull/1) | v0.0.1  |           |
 | <!-- Enlace de M S C -->                                                                                        |         |           |
-| <!-- Enlace de N C J -->                                                                                        |         |           |
+| <!-- Enlace de javiernavacapa -->                                                                                        |         |           |
 | <!-- Enlace de N G P -->                                                                                        |         |           |
 | <!-- Enlace de Carlosmapego8 -->                                                                                |         |           |
 | <!-- Enlace de P B H -->                                                                                        |         |           |
 | <!-- Enlace de Mario25402 --> [Enlace de Mario25402](https://github.com/Mario25402/Calendar/pull/2)             | v0.0.2  |           |
-| <!-- Enlace de R C P -->                                                                                        |         |           |
+| <!-- Enlace de Pablorc7 -->                                                                                        |         |           |
 | <!-- Enlace de mrh117 -->                                                                                       |         |           |
-| <!-- Enlace de R D R L -->                                                                                      |         |           |
+| <!-- Enlace de LuRDR -->                                                                                      |         |           |
 | [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/1)                                    | v0.0.2  |     ✓      |
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/1)                                    | v0.0.1  |     ✓       |
 | [Enlace de eigenric](https://github.com/eigenric/lyricfeel/pull/1)                                              | v0.0.2  |           |
@@ -52,4 +52,5 @@ iniciales.
 | [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)                                                   | v0.0.2  |           |
 | <!-- Enlace de ChinChainis -->                                                                                  |         |           |
 | <!-- Enlace de S V A B S -->                                                                                    |         |           |
-| <!-- Enlace de T L P -->                                                                                        |         |           |
+| <!-- Enlace de pablotl0 -->                                                                                        |         |           |
+

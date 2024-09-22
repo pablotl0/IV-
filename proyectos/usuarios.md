@@ -22,7 +22,7 @@
 | <!-- Enlace de H M --> | | |
 | <!-- Enlace de MatteoImbrosciano --> | | |
 | <!-- Enlace de L D C L M C --> | | |
-| <!-- Enlace de L B J --> | | |
+| <!-- Enlace de JLombar --> | | |
 | <!-- Enlace de joselopez10014 --> | | |
 | <!-- Enlace de mmnuria --> | | |
 | <!-- Enlace de M S C --> | | |
