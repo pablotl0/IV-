@@ -23,7 +23,7 @@ iniciales.
 | <!-- Enlace de clara99gf -->                                                                                    |         |           |
 | <!-- Enlace de Antoniogm03 -->                                                                                  |         |           |
 | <!-- Enlace de SantiGarvin -->                                                                                  |         |           |
-| [Enlace de evaanngiil](https://github.com/evaanngiil/PresentCreator/pull/1)                                     | v0.0.2  |           |
+| [Enlace de evaanngiil](https://github.com/evaanngiil/PresentCreator/pull/2)                                     | v0.0.3  |           |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/1)                                     | v0.0.1  | ✓         |
 | <!-- Enlace de GaelGoncalvesAlba -->                                                                            |         |           |
 | <!-- Enlace de abbonno -->                                                                                      |         |           |
