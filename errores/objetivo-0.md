@@ -13,4 +13,8 @@
 
 ## En el contenido
 
-* Se trata de describir bien un problema, un solo problema, con una clientela claramente definida.
+* Se trata de describir bien un problema, un solo problema, con una clientela
+  claramente definida.
+* Si de describe lo que el cliente *quiere hacer* sin decir por qué quiere
+  hacerlo, no estás describiendo el problema, estás describiendo una
+  solución. Es imposible de esa fomra solucionar el problema.
