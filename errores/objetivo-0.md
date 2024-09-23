@@ -14,7 +14,8 @@
 ## En el contenido
 
 * Se trata de describir bien un problema, un solo problema, con una clientela
-  claramente definida.
-* Si de describe lo que el cliente *quiere hacer* sin decir por qué quiere
+  claramente definida. En el momento que se diga "además" ya estás introduciendo
+  otro problema (y por tanto, estás más lejos de alcanzar el objetivo).
+* Si se describe lo que el cliente *quiere hacer* sin decir por qué quiere
   hacerlo, no estás describiendo el problema, estás describiendo una
   solución. Es imposible de esa fomra solucionar el problema.
