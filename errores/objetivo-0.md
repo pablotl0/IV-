@@ -18,4 +18,5 @@
   otro problema (y por tanto, estás más lejos de alcanzar el objetivo).
 * Si se describe lo que el cliente *quiere hacer* sin decir por qué quiere
   hacerlo, no estás describiendo el problema, estás describiendo una
-  solución. Es imposible de esa fomra solucionar el problema.
+  solución. Es imposible de esa forma iniciar un proceso de desarrollo de una
+  solución, *que requiere de un problema*.
