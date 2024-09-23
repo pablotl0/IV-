@@ -11,7 +11,7 @@ iniciales.
 | <!-- Enlace de A E S -->                                                                                        |         |           |
 | [Enlace de juanmaaf](https://github.com/juanmaaf/Time-MoneyController/pull/1)                                   | v0.0.1  |           |
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/1)                            | v0.0.3  | ✓         |
-| <!-- Enlace de juanbarearojo -->                                                                                |         |           |
+| [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/1)                                  | v0.0.1  |           |
 | <!-- Enlace de sweetiepitie -->                                                                                 |         |           |
 | <!-- Enlace de jacarmona364 -->                                                                                 |         |           |
 | <!-- Enlace de lmchaves -->                                                                                     |         |           |
