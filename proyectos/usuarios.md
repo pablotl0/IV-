@@ -28,7 +28,6 @@
 | <!-- Enlace de javiernavacapa --> | | |
 | <!-- Enlace de N G P --> | | |
 | <!-- Enlace de Carlosmapego8 --> | | |
-| <!-- Enlace de P B H --> | | |
 | <!-- Enlace de Mario25402 --> | | |
 | <!-- Enlace de Pablorc7 --> | | |
 | <!-- Enlace de mrh117 --> | | |
