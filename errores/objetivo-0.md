@@ -20,3 +20,14 @@
   hacerlo, no estás describiendo el problema, estás describiendo una
   solución. Es imposible de esa forma iniciar un proceso de desarrollo de una
   solución, *que requiere de un problema*.
+  * En general, el problema descrito aquí se convertirá en historias de usuario
+    en el [objetivo
+    1](http://jj.github.io/IV/documentos/proyecto/1.Planificacion), que más
+    adelante, en el [objetivo
+    4](https://jj.github.io/IV/documentos/proyecto/4.Tests) se tendrán que
+    testear. No se pueden testear los *deseos*, si el cliente *quiere* basta que
+    se haga, pero lo que el cliente *quiera* no es la expresión de un problema,
+    si no hay problema no se puede resolver, y por tanto no se puede iniciar un
+    proceso de desarrollo en ingeniería. El *problema* que tiene el cliente o lo
+    que el cliente *necesita* *sí* se puede solucionar, y se puede probar si la
+    solución propuesta efectivamente lo es para el problema que hay.
