@@ -10,6 +10,11 @@
   profesor. Los PRs son herramientas de transmisión del conocimiento,
   no simples "chismes" que el profesor quiere que uséis. Entended por
   qué se busca que adquiráis competencias en su uso.
+* Si no entiendes qué es la configuración, lee [la entrega de la
+  práctica](http://jj.github.io/IV/documentos/proyecto/0.Repositorio#entrega-de-la-pr%C3%A1ctica)
+  y en general trata de entender qué es lo que se pide y, como siempre, por
+  qué. No añadas dos ficheros aleatorios como `.gitignore` o `LICENSE`. ¿De qué
+  forma un fichero de licencia es parte de la configuración?
 
 ## En el contenido
 
