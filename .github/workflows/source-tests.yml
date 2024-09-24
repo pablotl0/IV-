@@ -19,7 +19,7 @@ jobs:
       version: ${{steps.pr_info.outputs.version}}
     steps:
       - id: pr_info
-        name: Comprobaciones básicas y extracción de información
+        name: Comprobaciones básicas y extracción de información del repo
         uses: JJ/grading-pr-info-gh-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
