@@ -13,7 +13,7 @@ iniciales.
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/1)                            | v0.0.3  | ✓         |
 | <!-- Enlace de juanbarearojo-->[Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/1)   | v0.0.2  |           |
 | <!-- Enlace de sweetiepitie -->                                                                                 |         |           |
-| <!-- Enlace de jacarmona364 -->                                                                                 |         |           |
+| [Enlace de jacarmona364](https://github.com/jacarmona364/Riskalc/pull/1)                                        | v0.0.2  |           |
 | <!-- Enlace de lmchaves -->                                                                                     |         |           |
 | [IV-24-25 FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/1)                                        | v0.0.1  |           |
 | <!-- Enlace de FerniCuesta -->                                                                                  |         |           |
