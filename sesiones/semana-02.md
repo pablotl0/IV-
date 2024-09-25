@@ -27,17 +27,7 @@ para ponerte al día.
 
 ## Objetivos alcanzados hasta ahora
 
-```text
- 0 🧮: 12%🚧 52%✅ 35%❌ ⇒
-     🚧 🚧 🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
- 1 🧮:  7%🚧  0%✅ 92%❌ ⇒
-     🚧 🚧 🚧
 
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
-```
 
 ## Material de la asignatura
 
@@ -48,7 +38,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 * [Objetivo 1 del
    proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 
-## Clase conjunta 21 de septiembre
+## Clase separada 26 de septiembre
 
 * Para los que *no hayan empezado el objetivo 0*: [juego de
   rol](http://jj.github.io/IV/documentos/actividades/juego-rol-design-thinking). Si
@@ -56,6 +46,19 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
   puede.
 
 * Para los que *hayan terminado el objetivo 0*: breve explicación por parte del profesor.
+
+
+## Clase conjunta 27 de septiembre
+
+* Comienzo del hackatón para entender mejor los conceptos a partir del
+  objetivo 1.
+  * Se incorporarán (voluntariamente) todos los que hayan superado el
+    objetivo 0.
+  * Se trabajará en equipo en un proyecto a elegir entre
+  [este](https://github.com/danibarranqueroo/TransporteEquitativo) y
+  [este](https://github.com/smallPingu/antiTarjetas).
+  * Se puede escoger otro si ninguno de los dos llama la atención.
+
 
 ## Errores frecuentes
 
