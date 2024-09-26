@@ -18,6 +18,7 @@ iniciales.
 | [IV-24-25 FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/1)                                        | v0.0.1  |           |
 | <!-- Enlace de FerniCuesta -->                                                                                  |         |           |
 | <!-- Enlace de "1E04" -->                                                                                       |         |           |
+| [Enlace de adiazcencillo](https://github.com/adiazcencillo/IV_adiaz/pull/1)                                     | v0.0.2  |           |
 | <!-- Enlace de adiazcencillo -->                                                                                |         |           |
 | [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/1)                                          | v0.0.1  |    ✓        |
 | <!-- Enlace de clara99gf --> [Enlace de clara99gf](https://github.com/clara99gf/easy-gains/pull/1)              | v0.0.1  | ✓         |
