@@ -10,7 +10,7 @@ iniciales.
 |----------------------------------------|---------|-----------|
 | <!-- Enlace de A E S -->               |         |           |
 | <!-- Enlace de juanmaaf -->            |         |           |
-| <!-- Enlace de giorgiogiovanni -->     |         |           |
+| [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/5)    | v0.1.1  |           |
 | <!-- Enlace de juanbarearojo -->       |         |           |
 | <!-- Enlace de sweetiepitie -->        |         |           |
 | <!-- Enlace de jacarmona364 -->        |         |           |
