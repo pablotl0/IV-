@@ -48,7 +48,7 @@ iniciales.
 | [Enlace de enger2003](https://github.com/enger2003/Practica_IV/pull/3)                                          | v0.0.7  |           |
 | <!-- Enlace de R S A -->                                                                                        |         |           |
 | [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)                                                   | v0.0.2  |           |
-| [Enlace de ChinChainis ](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/1)                  | v0.0.1  |           |
+| [Enlace de ChinChainis ](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/1)                  | v0.0.2  |           |
 | <!-- Enlace de S V A B S -->                                                                                    |         |           |
 | <!-- Enlace de pablotl0 -->                                                                                     |         |           |
 
