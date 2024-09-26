@@ -39,5 +39,5 @@
 | <!-- Enlace de R S A --> | | |
 | <!-- Enlace de wickeet --> | | |
 | <!-- Enlace de ChinChainis --> | | |
-| <!-- Enlace de S V A B S --> | | |
+| <!-- Enlace de anavaln --> | | |
 | <!-- Enlace de pablotl0 --> | | |
