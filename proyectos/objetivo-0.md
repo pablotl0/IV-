@@ -14,7 +14,7 @@ iniciales.
 | <!-- Enlace de juanbarearojo-->[Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/1)   | v0.0.2  |           |
 | [Enlace de jacarmona364](https://github.com/jacarmona364/Riskalc/pull/1)                                        | v0.0.2  |           |
 | <!-- Enlace de lmchaves --> [Enlace de lmchaves] (https://github.com/lmchaves/OrganizarTaller/pull/1)           | v0.0.1  |           |
-| [IV-24-25 FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/1)                                        | v0.0.1  |           |
+| [IV-24-25 FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/1)                                        | v0.0.1  | ✓         |
 | <!-- Enlace de FerniCuesta -->                                                                                  |         |           |
 | [Enlace de Leon Daus](https://github.com/1E04/IV_cdc_crypto_organiser/pull/1)                                   | v0.0.2  |           |
 | <!-- Enlace de adiazcencillo -->                                                                                |         |           |
