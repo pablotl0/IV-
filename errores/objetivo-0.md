@@ -10,7 +10,21 @@
   profesor. Los PRs son herramientas de transmisión del conocimiento,
   no simples "chismes" que el profesor quiere que uséis. Entended por
   qué se busca que adquiráis competencias en su uso.
-
+* Si no entiendes qué es la configuración, lee [la entrega de la
+  práctica](http://jj.github.io/IV/documentos/proyecto/0.Repositorio#entrega-de-la-pr%C3%A1ctica)
+  y en general trata de entender qué es lo que se pide y, como siempre, por
+  qué. No añadas dos ficheros aleatorios como `.gitignore` o `LICENSE`. ¿De qué
+  forma un fichero de licencia es parte de la configuración?
+* ¿De qué forma el fichero `.gitignore` y la licencia forman parte de
+  la configuración?
+* Si no se ha elegido un lenguaje al crear el repositorio, que lo
+  único que hace de hecho es crear un `.gitignore` específico para ese
+  lenguaje y se va a hacer en este PR, lo mejor es informarse de lo
+  que hace `.gitignore` y crear un fichero con un contenido razonable
+  en esta etapa del desarrollo. Si lo dejas vacío o con un contenido
+  arbitrario, no estás transmitiendo la idea de que entiendes qué es
+  lo que hace tal fichero y la función (importante) que ejerce.
+  
 ## En el contenido
 
 * Se trata de describir bien un problema, un solo problema, con una clientela
