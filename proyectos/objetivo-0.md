@@ -50,6 +50,6 @@ iniciales.
 | [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)                                                   | v0.0.2  |           |
 | <!-- Enlace de ChinChainis -->                                                                                  |         |           |
 | <!-- Enlace de S V A B S -->                                                                                    |         |           |
-| <!-- Enlace de pablotl0 -->                                                                                     |         |           |
+| <!-- Enlace de pablotl0 --> [Enlace de pablotl0](https://github.com/pablotl0/control-energetico/pull/1)         | v0.0.1  |           |
 
 
