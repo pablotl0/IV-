@@ -20,7 +20,7 @@ iniciales.
 | [Enlace de Leon Daus](https://github.com/1E04/IV_cdc_crypto_organiser/pull/1)                                   | v0.0.2  |           |
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/IV_adiaz/pull/1)                                     | v0.0.2  |           |
 | <!-- Enlace de adiazcencillo -->                                                                                |         |           |
-| [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/1)                                          | v0.0.1  |    ✓        |
+| [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/1)                                          | v0.0.1  | ✓         |
 | <!-- Enlace de clara99gf --> [Enlace de clara99gf](https://github.com/clara99gf/easy-gains/pull/1)              | v0.0.1  | ✓         |
 | <!-- Enlace de Antoniogm03 --> [Enlace de Antoniogm03](https://github.com/Antoniogm03/RepartoComida/pull/1)     | v0.0.1  |           |
 | <!-- Enlace de SantiGarvin -->                                                                                  |         |           |
@@ -31,10 +31,10 @@ iniciales.
 | [Enlace de davidgutierrezperez](https://github.com/davidgutierrezperez/Axel/pull/1)                             | v0.0.1  |           |
 | <!-- Enlace de H M -->                                                                                          |         |           |
 | [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Urban-Traffic/pull/1)                        | v0.0.1  |           |
-| <!-- Enlace de MCL-2024 -->                                                                                  |         |           |
-| [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/1)                                    | v0.0.4  |    ✓        |
+| <!-- Enlace de MCL-2024 -->                                                                                     |         |           |
+| [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/1)                                    | v0.0.4  | ✓         |
 | <!-- Enlace de joselopez10014 -->                                                                               |         |           |
-| <!-- Enlace de M M N --> [Enlace de nuriamanzanomata](https://github.com/mmnuria/PersonalSportCalendary/pull/1) | v0.0.1  |           |
+| <!-- Enlace de M M N --> [Enlace de nuriamanzanomata](https://github.com/mmnuria/PersonalSportCalendary/pull/1) | v0.0.1  | ✓         |
 | <!-- Enlace de M S C -->                                                                                        |         |           |
 | <!-- Enlace de javiernavacapa -->                                                                               |         |           |
 | <!-- Enlace de N G P -->                                                                                        |         |           |
