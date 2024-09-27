@@ -45,3 +45,10 @@
     proceso de desarrollo en ingeniería. El *problema* que tiene el cliente o lo
     que el cliente *necesita* *sí* se puede solucionar, y se puede probar si la
     solución propuesta efectivamente lo es para el problema que hay.
+* Los deseos del cliente son órdenes, y eso significa que si el cliente quiere
+  que vuestra aplicación haga algo, tendréis que testear que efectivamente lo
+  hace. Si el problema es maximizar ventas, tendréis que examinar cuales son las
+  ventas con el método actual (o aleatorio, lo que sea) y después con vuestro
+  algoritmo, y ver que es superior estricto. Si queréis predecir, *tendréis que
+  programar vosotros un algoritmo que prediga* y comprobar con datos que
+  efectivamente lo hace.
