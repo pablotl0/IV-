@@ -29,7 +29,7 @@ iniciales.
 | <!-- Enlace de davidgutierrezperez -->                                               |         |           |
 | <!-- Enlace de MatteoImbrosciano -->                                                 |         |           |
 | <!-- Enlace de MCL-2024 -->                                                          |         |           |
-| <!-- Enlace de JLombar -->                                                           |         |           |
+| [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/2)         | v0.1.4  |           |
 | <!-- Enlace de joselopez10014 -->                                                    |         |           |
 | <!-- Enlace de mmnuria -->                                                           |         |           |
 | <!-- Enlace de M S C -->                                                             |         |           |
