@@ -61,7 +61,6 @@ method cumple-objetivo(UInt $objetivo) {
 }
 
 method hecha-entrega(UInt $entrega) {
-    say "Entregados para $entrega: {@!entregas[$entrega]}";
     return @!entregas[$entrega];
 }
 
