@@ -12,7 +12,6 @@ iniciales.
 | <!-- Enlace de juanmaaf -->                                                          |         |           |
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/5) | v0.1.1  | ✓         |
 | <!-- Enlace de juanbarearojo -->                                                     |         |           |
-| <!-- Enlace de sweetiepitie -->                                                      |         |           |
 | <!-- Enlace de jacarmona364 -->                                                      |         |           |
 | <!-- Enlace de lmchaves -->                                                          |         |           |
 | <!-- Enlace de FabriConde -->                                                        |         |           |
@@ -28,15 +27,13 @@ iniciales.
 | <!-- Enlace de GaelGoncalvesAlba -->                                                 |         |           |
 | <!-- Enlace de abbonno -->                                                           |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                               |         |           |
-| <!-- Enlace de H M -->                                                               |         |           |
 | <!-- Enlace de MatteoImbrosciano -->                                                 |         |           |
-| <!-- Enlace de L D C L M C -->                                                       |         |           |
+| <!-- Enlace de MCL-2024 --> | | |
 | <!-- Enlace de JLombar -->                                                           |         |           |
 | <!-- Enlace de joselopez10014 -->                                                    |         |           |
 | <!-- Enlace de mmnuria -->                                                           |         |           |
 | <!-- Enlace de M S C -->                                                             |         |           |
 | <!-- Enlace de javiernavacapa -->                                                    |         |           |
-| <!-- Enlace de N G P -->                                                             |         |           |
 | <!-- Enlace de Carlosmapego8 -->                                                     |         |           |
 | <!-- Enlace de Mario25402 -->                                                        |         |           |
 | <!-- Enlace de Pablorc7 -->                                                          |         |           |
@@ -46,9 +43,8 @@ iniciales.
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/3)         | v0.1.4  |           |
 | <!-- Enlace de eigenric -->                                                          |         |           |
 | <!-- Enlace de enger2003 -->                                                         |         |           |
-| <!-- Enlace de R S A -->                                                             |         |           |
 | <!-- Enlace de wickeet -->                                                           |         |           |
 | <!-- Enlace de ChinChainis -->                                                       |         |           |
-| <!-- Enlace de S V A B S -->                                                         |         |           |
+| <!-- Enlace de anavaln --> | | |
 | <!-- Enlace de pablotl0 -->                                                          |         |           |
 
