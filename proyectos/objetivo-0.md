@@ -11,7 +11,7 @@ iniciales.
 | <!-- Enlace de A E S -->                                                                       |         |           |
 | [Enlace de juanmaaf](https://github.com/juanmaaf/Time-MoneyController/pull/1)                  | v0.0.1  | ✓         |
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/1)           | v0.0.3  | ✓         |
-| [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/1)                 | v0.0.2  |  ✓        |
+| [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/1)                 | v0.0.2  |           |
 | [Enlace de jacarmona364](https://github.com/jacarmona364/Riskalc/pull/1)                       | v0.0.2  |           |
 | [Enlace de lmchaves] (https://github.com/lmchaves/OrganizarTaller/pull/1)                      | v0.0.1  |           |
 | [IV-24-25 FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/1)                       | v0.0.1  | ✓         |
@@ -46,7 +46,7 @@ iniciales.
 | [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)                                  | v0.0.2  | ✓ 	                 |
 | [Enlace de ChinChainis ](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/1) | v0.0.2  | ✓         |
 | <!-- Enlace de anavaln -->                                                                     |         |           |
-| [Enlace de pablotl0](https://github.com/pablotl0/control-energetico/pull/1)                    | v0.0.1  |           |
+| [Enlace de pablotl0](https://github.com/pablotl0/turismo/pull/1)                               | v0.0.2  |           |
 
 
 
