@@ -43,7 +43,7 @@ iniciales.
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/1)                   | v0.0.1  | ✓         |
 | [Enlace de eigenric](https://github.com/eigenric/lyricfeel/pull/1)                             | v0.0.2  |           |
 | [Enlace de enger2003](https://github.com/enger2003/Practica_IV/pull/3)                         | v0.0.7  |           |
-| [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)                                  | v0.0.2  |           |
+| [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)                                  | v0.0.2  | ✓ 	                 |
 | [Enlace de ChinChainis ](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/1) | v0.0.2  | ✓         |
 | <!-- Enlace de anavaln -->                                                                     |         |           |
 | [Enlace de pablotl0](https://github.com/pablotl0/control-energetico/pull/1)                    | v0.0.1  |           |
