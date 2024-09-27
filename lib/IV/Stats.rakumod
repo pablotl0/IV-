@@ -32,7 +32,9 @@ method new(Str $file = "{ PROYECTOS }usuarios.md") {
                 my $estado-objetivo = %estado-objetivos{$usuario};
                 if $estado-objetivo<estado> == CUMPLIDO  {
                     %students{$usuario}<objetivos> ∪= +$objetivo;
+                    %students{$usuario}<entrega> = +$objetivo;
                     @objetivos[$objetivo] ∪= $usuario;
+                    @entregas[$objetivo] ∪= $usuario;
                 } elsif $estado-objetivo<estado> == ENVIADO {
                     %students{$usuario}<entrega> = +$objetivo;
                     @entregas[$objetivo] ∪= $usuario;
@@ -55,11 +57,11 @@ method entregas-de(Str $user) {
 }
 
 method cumple-objetivo(UInt $objetivo) {
-    say "Cumplidos para $objetivo: {@!objetivos[$objetivo]}";
     return @!objetivos[$objetivo];
 }
 
 method hecha-entrega(UInt $entrega) {
+    say "Entregados para $entrega: {@!entregas[$entrega]}";
     return @!entregas[$entrega];
 }
 
