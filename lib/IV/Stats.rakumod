@@ -41,8 +41,6 @@ method new(Str $file = "{ PROYECTOS }usuarios.md") {
             }
         }
     }
-    say @objetivos;
-    say @entregas;
     self.bless(:@student-list, :%students, :@objetivos, :@entregas, :%versiones);
 }
 
@@ -57,6 +55,7 @@ method entregas-de(Str $user) {
 }
 
 method cumple-objetivo(UInt $objetivo) {
+    say "Cumplidos para $objetivo: {@!objetivos[$objetivo]}";
     return @!objetivos[$objetivo];
 }
 
