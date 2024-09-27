@@ -28,7 +28,7 @@ iniciales.
 | <!-- Enlace de abbonno -->                                                           |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                               |         |           |
 | <!-- Enlace de MatteoImbrosciano -->                                                 |         |           |
-| <!-- Enlace de MCL-2024 --> | | |
+| <!-- Enlace de MCL-2024 -->                                                          |         |           |
 | <!-- Enlace de JLombar -->                                                           |         |           |
 | <!-- Enlace de joselopez10014 -->                                                    |         |           |
 | <!-- Enlace de mmnuria -->                                                           |         |           |
@@ -45,6 +45,6 @@ iniciales.
 | <!-- Enlace de enger2003 -->                                                         |         |           |
 | <!-- Enlace de wickeet -->                                                           |         |           |
 | <!-- Enlace de ChinChainis -->                                                       |         |           |
-| <!-- Enlace de anavaln --> | | |
+| <!-- Enlace de anavaln -->                                                           |         |           |
 | <!-- Enlace de pablotl0 -->                                                          |         |           |
 
