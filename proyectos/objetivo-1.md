@@ -10,7 +10,7 @@ iniciales.
 |--------------------------------------------------------------------------------------|---------|-----------|
 | <!-- Enlace de A E S -->                                                             |         |           |
 | [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/6) | v0.1.1 |           |
-| [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/5) | v0.1.1  | ✓         |
+| [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/5) | v0.1.2  | ✓         |
 | <!-- Enlace de juanbarearojo -->                                                     |         |           |
 | <!-- Enlace de jacarmona364 -->                                                      |         |           |
 | <!-- Enlace de lmchaves -->                                                          |         |           |
