@@ -258,5 +258,5 @@ jobs:
           version: 1.0
       - name: Revisores aleatorios
         env:
-          github-token: ${{secrets.GITHUB_TOKEN}}
+          github-token: ${{secrets.COMMENT_TOKEN}}
         run: scripts/random-reviewer
