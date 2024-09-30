@@ -18,7 +18,7 @@ iniciales.
 | <!-- Enlace de FerniCuesta -->                                                       |         |           |
 | <!-- Enlace de "1E04" -->                                                            |         |           |
 | <!-- Enlace de adiazcencillo -->                                                     |         |           |
-| <!-- Enlace de hossam1522 -->                                                        |         |           |
+| [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/7)               | v0.1.1  |           |
 | <!-- Enlace de clara99gf -->                                                         |         |           |
 | <!-- Enlace de Antoniogm03 -->                                                       |         |           |
 | <!-- Enlace de SantiGarvin -->                                                       |         |           |
