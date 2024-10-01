@@ -52,3 +52,8 @@
   algoritmo, y ver que es superior estricto. Si queréis predecir, *tendréis que
   programar vosotros un algoritmo que prediga* y comprobar con datos que
   efectivamente lo hace.
+* Un problema no se puede empezar a describir como *el problema de*. Si quieres
+  realmente describir un problema de forma que puedas abordarlo en la
+  asignatura, tendrías que empezar a preguntar a ese cliente (o a ti mismo) por
+  qué tienen ese problema. De esa forma podrás acercarta un poco más a describir
+  el problema de forma que se pueda resolver en la asignatura.
