@@ -12,7 +12,7 @@ iniciales.
 | [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/6) | v0.1.2 |           |
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/5) | v0.1.1  | ✓         |
 | [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/2)       | v0.1.1  |           |
-| <!-- Enlace de jacarmona364 -->                                                      |         |           |
+| [Enlace de jacarmona364](https://github.com/jacarmona364/Riskalc/pull/2)             | v0.1.1  |           |
 | <!-- Enlace de lmchaves -->                                                          |         |           |
 | [Enlace de FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/4)            | v0.1.1  |           |
 | <!-- Enlace de FerniCuesta -->                                                       |         |           |
