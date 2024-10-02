@@ -57,7 +57,13 @@ ejemplo).
   en esta etapa del desarrollo. Si lo dejas vacío o con un contenido
   arbitrario, no estás transmitiendo la idea de que entiendes qué es
   lo que hace tal fichero y la función (importante) que ejerce.
-  
+* Es un error no reaccionar de forma rápida a las correcciones del profesor. El
+  profesor se compromete a hacer las correcciones de lo enviado rápidamente, y
+  en la mayor parte de los casos lo hace el mismo día o a las pocas horas o
+  minutos del envío. Tardar días o semanas en revisar y volver a enviar revela
+  poco interés por parte del estudiante, y en todo caso pone en peligro que se
+  pueda llegar con tiempo al resto de los objetivos.
+
 ## En el contenido
 
 * Se trata de describir bien un problema, un solo problema, con una clientela
