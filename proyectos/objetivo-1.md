@@ -9,7 +9,7 @@ iniciales.
 | URL                                                                                  | Versión | Alcanzado |
 |--------------------------------------------------------------------------------------|---------|-----------|
 | <!-- Enlace de A E S -->                                                             |         |           |
-| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/6) | v0.1.2 |           |
+| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/6)             | v0.1.2  |           |
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/5) | v0.1.1  | ✓         |
 | [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/2)       | v0.1.1  |           |
 | [Enlace de jacarmona364](https://github.com/jacarmona364/Riskalc/pull/2)             | v0.1.1  |           |
@@ -28,6 +28,7 @@ iniciales.
 | <!-- Enlace de abbonno -->                                                           |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                               |         |           |
 | <!-- Enlace de MatteoImbrosciano -->                                                 |         |           |
+| <!-- Enlace de Katakuri00 -->                                                        |         |           |
 | <!-- Enlace de MCL-2024 -->                                                          |         |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/2)         | v0.1.4  |           |
 | <!-- Enlace de joselopez10014 -->                                                    |         |           |
