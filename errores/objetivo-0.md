@@ -50,8 +50,6 @@ ejemplo).
   y en general trata de entender qué es lo que se pide y, como siempre, por
   qué. No añadas dos ficheros aleatorios como `.gitignore` o `LICENSE`. ¿De qué
   forma un fichero de licencia es parte de la configuración?
-* ¿De qué forma el fichero `.gitignore` y la licencia forman parte de
-  la configuración?
 * Si no se ha elegido un lenguaje al crear el repositorio, que lo
   único que hace de hecho es crear un `.gitignore` específico para ese
   lenguaje y se va a hacer en este PR, lo mejor es informarse de lo
