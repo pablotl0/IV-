@@ -41,7 +41,7 @@ iniciales.
 | <!-- Enlace de mrh117 -->                                                            |         |           |
 | <!-- Enlace de LuRDR -->                                                             |         |           |
 | [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/5)         | v0.1.1  |    ✓        |
-| [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/3)         | v0.1.4  |           |
+| [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/3)         | v0.1.4  |      ✓      |
 | <!-- Enlace de eigenric -->                                                          |         |           |
 | <!-- Enlace de enger2003 -->                                                         |         |           |
 | <!-- Enlace de wickeet -->                                                           |         |           |
