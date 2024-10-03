@@ -3,4 +3,5 @@
 | Quien       | Trabaja sobre el repo de |
 |-------------|--------------------------|
 | MarioRgzLpz | antoniorr02              |
+| antoniorr02 | giorgiogiovanni          |
 |             |                          |
