@@ -2,11 +2,13 @@
 
 Es un error demasiado frecuente mirar lo que ha hecho un compañero/a y ponerlo
 tal cual. Y en general, va a ser un error que va a perjudicar al profesor (que
-tendrá qeu revisar dos o tres o 10 veces lo mismo) pero también al estudiante,
-porque lo que se busca es que el estudiante no entienda *formalmente* lo que hay
+tendrá que revisar dos o tres o 10 veces lo mismo) pero también al estudiante,
+porque lo que se busca no es que el estudiante entienda *formalmente* lo que hay
 que poner, sino que empiece a usar unas metodologías determinadas que le ahorren
 trabajo (o simplemente le indiquen cómo hacer el trabajo) en un entorno de
-desarrollo determinado. Si se observa el mismo patrón de entrega en varios
+desarrollo determinado.
+
+Si se observa el mismo patrón de entrega en varios
 estudiantes, lo primero que indica es dejadez por parte del estudiante y falta
 de preocupación por aprender los objetivos de la asignatura. Dado que se puede
 entregar lo que se desee y el profesor lo corrige, a priori no hay ningún
@@ -22,14 +24,14 @@ varias veces el objetivo entregado.
 
 En general, la mejor estrategia es tratar de entender de forma autónoma los
 conceptos y metodologías que se incluyen en cada objetivo. Si no se entienden
-bien, el profesor guiará hasta que se comprendan. Si simplemente pones lo que ha
+bien, el profesor guiará hasta que se comprendan. Si simplemente se pone lo que ha
 puesto otro compañero, la corrección del profesor no va a comportar ningún
 aprendizaje, sino un bucle posiblemente infinito de entregas tomadas de otro
 compañero/a o de algún lugar.
 
 En este primer objetivo se ve especialmente en la entrega del fichero
 `.gitignore` y `LICENSE`, que *no* tienen nada que ver con el objetivo
-específico, pero que alguno de los estudiantes que pasó el objetivo incluyó por
+específico, pero que alguno de los estudiantes que pasó el objetivo inicialmente incluyó por
 alguna razón (que se les olvidó incluirlo cuando creó el repositorio, por
 ejemplo).
 
