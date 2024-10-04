@@ -7,6 +7,9 @@ crear la rama desde la que se lanza el PR. Y si ya se ha hecho, habrá que
 añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
 (añadiendo a la principal y mergeando de la principal a la secundaria)
 
+- Se deben resolver *todos* los comentarios. Igualmente quien comente no debe
+  aprobar hasta que no se hayan resuelto todos los comentarios.
+
 ## En el contenido
 
 * Escribir en el primer milestone (milestone 0) "Modelo del problema" no es
