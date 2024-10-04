@@ -22,7 +22,7 @@ iniciales.
 | [Enlace de clara99gf](https://github.com/clara99gf/easy-gains/pull/7)                         | v0.1.2  |           |
 | <!-- Enlace de Antoniogm03 -->                                                                |         |           |
 | <!-- Enlace de SantiGarvin -->                                                                |         |           |
-| <!-- Enlace de evaanngiil -->                                                                 |         |           |
+| [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/10)                   | v0.1.1  |           |
 | <!-- Enlace de blancagiron -->                                                                |         |           |
 | <!-- Enlace de GaelGoncalvesAlba -->                                                          |         |           |
 | <!-- Enlace de abbonno -->                                                                    |         |           |
