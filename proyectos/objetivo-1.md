@@ -36,7 +36,7 @@ iniciales.
 | <!-- Enlace de M S C -->                                                                      |         |           |
 | <!-- Enlace de javiernavacapa -->                                                             |         |           |
 | <!-- Enlace de Carlosmapego8 -->                                                              |         |           |
-| <!-- Enlace de Mario25402 -->                                                                 |         |           |
+| [Enlace de Mario25402](https://github.com/Mario25402/AskETSIIT/pull/9)                        | v0.1.1  |           |
 | <!-- Enlace de Pablorc7 -->                                                                   |         |           |
 | <!-- Enlace de mrh117 -->                                                                     |         |           |
 | <!-- Enlace de LuRDR -->                                                                      |         |           |
