@@ -22,7 +22,7 @@ iniciales.
 | [Enlace de clara99gf](https://github.com/clara99gf/easy-gains/pull/1)                          | v0.0.1  | ✓         |
 | [Enlace de Antoniogm03](https://github.com/Antoniogm03/RepartoComida/pull/1)                   | v0.0.1  | ✓         |
 | [Enlace de SantiGarvin](https://github.com/SantiGarvin/RentView/pull/2)                        | v0.0.1  |           |
-| [Enlace de evaanngiil](https://github.com/evaanngiil/PresentCreator/pull/2)                    | v0.0.3  |           |
+| [Enlace de evaanngiil](https://github.com/evaanngiil/PresentCreator/pull/2)                    | v0.0.3  | ✓           |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/1)                    | v0.0.1  | ✓         |
 | [Enlace de GaelGoncalvesAlba](https://github.com/GaelGoncalvesAlba/MovieBudget/pull/1)         | v0.0.1  |           |
 | [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/1)                         | v0.0.1  | ✓         |
