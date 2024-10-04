@@ -25,9 +25,9 @@ iniciales.
 | [Enlace de evaanngiil](https://github.com/evaanngiil/PresentCreator/pull/2)                    | v0.0.3  |           |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/1)                    | v0.0.1  | ✓         |
 | [Enlace de GaelGoncalvesAlba](https://github.com/GaelGoncalvesAlba/MovieBudget/pull/1)         | v0.0.1  |           |
-| [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/1)                         | v0.0.1  |  ✓          |
+| [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/1)                         | v0.0.1  | ✓         |
 | [Enlace de davidgutierrezperez](https://github.com/davidgutierrezperez/Axel/pull/1)            | v0.0.1  |           |
-| [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Urban-Traffic/pull/1)       | v0.0.1  |    ✓              |
+| [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Urban-Traffic/pull/1)       | v0.0.1  | ✓         |
 | [Enlace de Katakuri00](https://github.com/Katakuri00/iv_budgettracker/pull/1)                  | v0.0.1  |           |
 | [Enlace de MCL-2024](https://github.com/MCL-2024/OptiRoute/pull/1)                             | v0.0.1  |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/1)                   | v0.0.4  | ✓         |
