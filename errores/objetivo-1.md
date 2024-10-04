@@ -1,5 +1,11 @@
 # Errores frecuentes objetivo 1
 
+En este objetivo y en todos los demás debe haber en el PR *sólo* lo que sea
+relevante para la corrección del mismo. Si hay que cambiar algún fichero de
+nombre, meter un fichero o borrarlo, se hace en la rama principal *antes* de
+crear la rama desde la que se lanza el PR. Y si ya se ha hecho, habrá que
+añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
+(añadiendo a la principal y mergeando de la principal a la secundaria)
 
 ## En el contenido
 
