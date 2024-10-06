@@ -15,7 +15,7 @@ iniciales.
 | [Enlace de jacarmona364](https://github.com/jacarmona364/Riskalc/pull/2)                      | v0.1.1  |           |
 | <!-- Enlace de lmchaves -->                                                                   |         |           |
 | [Enlace de FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/4)                     | v0.1.1  | ✓         |
-| <!-- Enlace de FerniCuesta -->                                                                |         |           |
+| [Enlace de FerniCuesta](https://github.com/FerniCuesta/DrivePlanner/pull/2)                   | v0.1.1  |           |
 | <!-- Enlace de "1E04" -->                                                                     |         |           |
 | <!-- Enlace de adiazcencillo -->                                                              |         |           |
 | [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/7)                        | v0.1.1  |           |
