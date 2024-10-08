@@ -42,7 +42,7 @@ iniciales.
 | <!-- Enlace de LuRDR -->                                                                      |         |           |
 | [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/5)                  | v0.1.1  | ✓         |
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/3)                  | v0.1.4  | ✓         |
-| <!-- Enlace de eigenric -->                                                                   |         |           |
+| [Enlace de eigenric](https://github.com/eigenric/bibliofetch/pull/5)                          | v0.1.1  |           |
 | <!-- Enlace de enger2003 -->                                                                  |         |           |
 | <!-- Enlace de wickeet -->                                                                    |         |           |
 | [Enlace de ChinChainis](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/5) | v0.1.2  |           |
