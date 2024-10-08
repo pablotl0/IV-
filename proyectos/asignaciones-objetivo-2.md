@@ -5,4 +5,5 @@
 | MarioRgzLpz     | antoniorr02              |
 | antoniorr02     | giorgiogiovanni          |
 | giorgiogiovanni | FabriConde               |
+| FabriConde      | juanbarearojo            |
 |                 |                          |
