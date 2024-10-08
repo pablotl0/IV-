@@ -10,7 +10,7 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
 - Se deben resolver *todos* los comentarios. Igualmente quien comente no debe
   aprobar hasta que no se hayan resuelto todos los comentarios.
 
-## En el contenido
+## Sobre los milestones
 
 * Escribir en el primer milestone (milestone 0) "Modelo del problema" no es
   suficiente. Primero, tiene que describirse qué producto se va a
@@ -30,3 +30,17 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
   preciso en el lenguaje, porque en el momento que se vaya a trabajar con un
   milestone determinado puede haber más historias de usuario, o menos, así que
   aclarar a qué parte del problema del cliente se circunscribe siempre es conveniente.
+
+* Por favor, no inventéis y pidáis cosas que no vienen a cuento ni sirven
+  realmente para nada. Estoy pensando en pedir "documentos" con el modelo del
+  problema, pero no descarto que metáis diagramas UML o alguna otra cosa
+  igualmente inútil. Un producto es código funcionando, y que siga algún
+  criterio de viabilidad. Punto.
+
+* Los criterios de viabilidad tienen que ser, si no totalmente objetivos, al
+  menos que sigan algún criterio más o menos objetivo. "Que lo apruebe alguien"
+  no es objetivo. ¿Qué pasa si no lo aprueba? ¿Está mal entonces? Si no se puede
+  comprobar de forma totalmente objetiva, habrá al menos que indicar algún
+  criterio cualitativo o cuantitativo que se vaya a seguir a la hora de
+  aprobarlo o no.
+
