@@ -27,7 +27,13 @@ conceptos y metodologías que se incluyen en cada objetivo. Si no se entienden
 bien, el profesor guiará hasta que se comprendan. Si simplemente se pone lo que ha
 puesto otro compañero, la corrección del profesor no va a comportar ningún
 aprendizaje, sino un bucle posiblemente infinito de entregas tomadas de otro
-compañero/a o de algún lugar.
+compañero/a o de algún lugar; y no lo va a comportar simplemente porque no se ha
+hecho el esfuerzo que lleva a esa solución que se ha propuesto. Pero es que si
+se aprueba tampoco se va a aprender nada. "Me han aprobado lo que he copiado de
+no sé dónde". Bravo. No has aprendido nada, y lo que se aprende en un objetivo
+se tiene que aplicar en los siguientes. Si no has aprendido nada, tendrás que
+volver a hacer el esfuerzo de aprenderlo de todas maneras, y te costará mucho
+más trabajo cuanto más complejos sean los objetivos a alcanzar.
 
 En este primer objetivo se ve especialmente en la entrega del fichero
 `.gitignore` y `LICENSE`, que *no* tienen nada que ver con el objetivo
