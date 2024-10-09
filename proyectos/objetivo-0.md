@@ -47,7 +47,7 @@ iniciales.
 | [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)                                  | v0.0.2  | ✓         |
 | [Enlace de ChinChainis ](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/1) | v0.0.2  | ✓         |
 | [Enlace de anavaln](https://github.com/anavaln/receitasIV/pull/1)                              | v0.0.1  |           |
-| [Enlace de pablotl0](https://github.com/pablotl0/control-energetico/pull/1)                    | v0.0.1  |           |
+| [Enlace de pablotl0](https://github.com/pablotl0/control-energetico/pull/1)                    | v0.0.1  |  ✓         |
 
 
 
