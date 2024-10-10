@@ -44,6 +44,12 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
   criterio cualitativo o cuantitativo que se vaya a seguir a la hora de
   aprobarlo o no.
 
+* Si se dice qué forma debe tener un PMV, ni se deja al desarrollador trabajar
+  sobre el mismo, ni de hecho hace falta que se haga ese trabajo, porque ya se
+  ha hecho. Se debe decir la forma general del producto o qué tiene que hacer el
+  producto para ser válido, no qué contiene, porque para eso es mejor que lo
+  haga directamente quien lo dice.
+
 ## Sobre las historias de usuario
 
 * Hay que escribirlas *para otra persona*, explicando todos los
