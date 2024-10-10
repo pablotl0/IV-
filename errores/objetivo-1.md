@@ -49,6 +49,13 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
   ha hecho. Se debe decir la forma general del producto o qué tiene que hacer el
   producto para ser válido, no qué contiene, porque para eso es mejor que lo
   haga directamente quien lo dice.
+ 
+* El exceso de detalles hace que se fuerce a soluciones determinadas, y hace que
+  haya que cambiar una cantidad excesiva de cosas. Los milestones son
+  agrupaciones de productos de complejidad creciente, que creen diferentes
+  niveles de abstracción a la hora de trabajar con el problema. Decir que uno
+  tenga "2 cosas" y otro "3 cosas" divide de forma artificial el problema,
+  porque igual de trabajo cuesta programar para 3 cosas que para 5.
 
 ## Sobre las historias de usuario
 
