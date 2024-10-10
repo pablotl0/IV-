@@ -23,7 +23,7 @@ iniciales.
 | <!-- Enlace de Antoniogm03 -->                                                                   |         |           |
 | <!-- Enlace de SantiGarvin -->                                                                   |         |           |
 | [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/10)                      | v0.1.1  |           |
-| <!-- Enlace de blancagiron -->                                                                   |         |           |
+| [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/6)                      | v0.1.1  |           |
 | <!-- Enlace de GaelGoncalvesAlba -->                                                             |         |           |
 | <!-- Enlace de abbonno -->                                                                       |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                                           |         |           |
