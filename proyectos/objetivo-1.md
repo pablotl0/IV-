@@ -25,7 +25,7 @@ iniciales.
 | [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/10)                      | v0.1.1  |           |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/6)                      | v0.1.1  |           |
 | <!-- Enlace de GaelGoncalvesAlba -->                                                             |         |           |
-| <!-- Enlace de abbonno -->                                                                       |         |           |
+| [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/2)                           | v0.1.2  |           |
 | <!-- Enlace de davidgutierrezperez -->                                                           |         |           |
 | [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/3) | v0.1.3  |           |
 | <!-- Enlace de Katakuri00 -->                                                                    |         |           |
