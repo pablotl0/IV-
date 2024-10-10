@@ -44,3 +44,10 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
   criterio cualitativo o cuantitativo que se vaya a seguir a la hora de
   aprobarlo o no.
 
+## Sobre las historias de usuario
+
+* Hay que escribirlas *para otra persona*, explicando todos los
+  términos del problema que necesiten explicación, sobre todo en el
+  marco de poder entender por qué es un problema trabajar con esos
+  términos o hacer esa actividad.
+  
