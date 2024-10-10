@@ -47,5 +47,5 @@ iniciales.
 | [Enlace de wickeet](https://github.com/wickeet/Tripoli/pull/2)                                   | v0.1.2  |           |
 | [Enlace de ChinChainis](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/5)    | v0.1.2  |           |
 | <!-- Enlace de anavaln -->                                                                       |         |           |
-| [Enlace de pablotl0](https://github.com/pablotl0/EnviroTrack/pull/5)                             | v.0.1.1 |           |
+| [Enlace de pablotl0](https://github.com/pablotl0/EnviroTrack/pull/5)                             | v.0.1.2 |           |
 
