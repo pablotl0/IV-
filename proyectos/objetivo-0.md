@@ -31,7 +31,7 @@ iniciales.
 | [Enlace de Katakuri00](https://github.com/Katakuri00/iv_budgettracker/pull/1)                  | v0.0.1  |           |
 | [Enlace de MCL-2024](https://github.com/MCL-2024/OptiRoute/pull/1)                             | v0.0.1  | ✓         |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/1)                   | v0.0.4  | ✓         |
-| [Enlace de joselopez10014](https://github.com/joselopez10014/OrganizadorVJ/pull/2)             | v0.0.1  |           |
+| [Enlace de joselopez10014](https://github.com/joselopez10014/OrganizadorVJ/pull/2)             | v0.0.1  | ✓         |
 | [Enlace de nuriamanzanomata](https://github.com/mmnuria/PersonalSportCalendary/pull/1)         | v0.0.1  | ✓         |
 | <!-- Enlace de M S C -->                                                                       |         |           |
 | <!-- Enlace de javiernavacapa -->                                                              |         |           |
@@ -47,7 +47,8 @@ iniciales.
 | [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)                                  | v0.0.2  | ✓         |
 | [Enlace de ChinChainis ](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/1) | v0.0.2  | ✓         |
 | [Enlace de anavaln](https://github.com/anavaln/receitasIV/pull/1)                              | v0.0.1  |           |
-| [Enlace de pablotl0](https://github.com/pablotl0/control-energetico/pull/1)                    | v0.0.1  |  ✓         |
+| [Enlace de pablotl0](https://github.com/pablotl0/control-energetico/pull/1)                    | v0.0.1  | ✓         |
+
 
 
 
