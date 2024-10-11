@@ -1,4 +1,3 @@
-| <!-- Enlace de A E S --> | | |
 | <!-- Enlace de juanmaaf --> | | |
 | <!-- Enlace de giorgiogiovanni --> | | |
 | <!-- Enlace de juanbarearojo --> | | |
