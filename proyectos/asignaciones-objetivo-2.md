@@ -8,4 +8,6 @@
 | FabriConde      | juanbarearojo            |
 | adiazcencillo   | MarioRgzLpz              |
 | juanbarearojo   | hossam1522               |
-| hossam1522 	  |          wickeet                |
+| hossam1522      | wickeet                  |
+| jlombar         | adiazcencillo            |
+|                 |                          |
