@@ -10,6 +10,14 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
 - Se deben resolver *todos* los comentarios. Igualmente quien comente no debe
   aprobar hasta que no se hayan resuelto todos los comentarios.
 
+- Es un error demasiado común escribir *mucho*. Escribir *mucho* no hace que los
+  revisores entiendan que has comprendido el concepto del objetivo. La brevedad
+  es esencial no sólo para revisar bien el objetivo, sino también para
+  trabajar. 10 reglas de validación, 12 componentes de un producto, no hacen más
+  que añadir oscuridad y complejidad al trabajo, no ayudan a responder la
+  pregunta sobre si lo que se hace está bien, y sobre todo oscurecen una
+  documentación que debería ser solamente técnica.
+
 ## Sobre los milestones
 
 * Escribir en el primer milestone (milestone 0) "Modelo del problema" no es
