@@ -7,5 +7,5 @@
 | giorgiogiovanni | FabriConde               |
 | FabriConde      | juanbarearojo            |
 | adiazcencillo   | MarioRgzLpz              |
-| juanbarearojo   | adiazcencillo            |
+| juanbarearojo   | hossam1522               |
 |                 |                          |
