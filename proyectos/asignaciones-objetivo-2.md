@@ -6,4 +6,6 @@
 | antoniorr02     | giorgiogiovanni          |
 | giorgiogiovanni | FabriConde               |
 | FabriConde      | juanbarearojo            |
-| adiazcencillo  | MarioRgzLpz               |                        
+| adiazcencillo   | MarioRgzLpz              |
+| juanbarearojo   | adiazcencillo            |
+|                 |                          |
