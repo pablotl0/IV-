@@ -29,7 +29,7 @@ iniciales.
 | [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/3) | v0.1.3  |           |
 | <!-- Enlace de Katakuri00 -->                                                                    |         |           |
 | <!-- Enlace de MCL-2024 -->                                                                      |         |           |
-| [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/2)                     | v0.1.4  |           |
+| [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/2)                     | v0.1.4  | ✓         |
 | <!-- Enlace de joselopez10014 -->                                                                |         |           |
 | [Enlace de mmnuria](https://github.com/mmnuria/PersonalSportCalendary/pull/6)                    | v0.1.3  |           |
 | <!-- Enlace de M S C -->                                                                         |         |           |
