@@ -25,6 +25,7 @@ iniciales.
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/1)                    | v0.0.1  | ✓         |
 | [Enlace de GaelGoncalvesAlba](https://github.com/GaelGoncalvesAlba/MovieBudget/pull/1)         | v0.0.1  | ✓         |
 | [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/1)                         | v0.0.1  | ✓         |
+| <!-- Enlace de oscargr-ugr -->                                                                 |         |           |
 | [Enlace de davidgutierrezperez](https://github.com/davidgutierrezperez/Axel/pull/1)            | v0.0.1  |           |
 | [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Urban-Traffic/pull/1)       | v0.0.1  | ✓         |
 | [Enlace de Katakuri00](https://github.com/Katakuri00/iv_budgettracker/pull/1)                  | v0.0.1  |           |
@@ -37,10 +38,11 @@ iniciales.
 | [Enlace de Carlosmapego8](https://github.com/Carlosmapego8/GoMountain/pull/1)                  | v0.0.1  |           |
 | [Enlace de Mario25402](https://github.com/Mario25402/Calendar/pull/2)                          | v0.0.2  | ✓         |
 | [Enlace de Pablorc7](https://github.com/Pablorc7/Smart-Eats/pull/1)                            | v0.0.1  |           |
-| [Enlace de mrh117](https://github.com/mrh117/proyectoupgrade/pull/1)                           | v0.0.1  |  ✓          |
+| [Enlace de mrh117](https://github.com/mrh117/proyectoupgrade/pull/1)                           | v0.0.1  | ✓         |
 | [Enlace de LuRDR](https://github.com/LuRDR/GestionHorarios/pull/1)                             | v0.0.1  | ✓         |
 | [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/1)                   | v0.0.2  | ✓         |
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/1)                   | v0.0.1  | ✓         |
+| <!-- Enlace de alvarorcs2002 -->                                                               |         |           |
 | [Enlace de eigenric](https://github.com/eigenric/lyricfeel/pull/1)                             | v0.0.2  | ✓         |
 | [Enlace de enger2003](https://github.com/enger2003/Practica_IV/pull/3)                         | v0.0.7  |           |
 | [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)                                  | v0.0.2  | ✓         |
