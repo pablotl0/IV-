@@ -15,6 +15,7 @@
 | <!-- Enlace de blancagiron --> | | |
 | <!-- Enlace de GaelGoncalvesAlba --> | | |
 | <!-- Enlace de abbonno --> | | |
+| <!-- Enlace de oscargr-ugr --> | | |
 | <!-- Enlace de davidgutierrezperez --> | | |
 | <!-- Enlace de MatteoImbrosciano --> | | |
 | <!-- Enlace de Katakuri00 --> | | |
@@ -31,6 +32,7 @@
 | <!-- Enlace de LuRDR --> | | |
 | <!-- Enlace de MarioRgzLpz --> | | |
 | <!-- Enlace de antoniorr02 --> | | |
+| <!-- Enlace de alvarorcs2002 --> | | |
 | <!-- Enlace de eigenric --> | | |
 | <!-- Enlace de enger2003 --> | | |
 | <!-- Enlace de wickeet --> | | |
