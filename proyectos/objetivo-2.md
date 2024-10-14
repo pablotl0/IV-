@@ -17,7 +17,6 @@ iniciales.
 | <!-- Enlace de lmchaves -->            |         |           |
 | <!-- Enlace de FabriConde -->          |         |           |
 | <!-- Enlace de FerniCuesta -->         |         |           |
-| <!-- Enlace de "1E04" -->              |         |           |
 | <!-- Enlace de adiazcencillo -->       |         |           |
 | <!-- Enlace de hossam1522 -->          |         |           |
 | <!-- Enlace de clara99gf -->           |         |           |

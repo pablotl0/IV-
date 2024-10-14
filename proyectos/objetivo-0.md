@@ -16,7 +16,6 @@ iniciales.
 | [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/1)                       | v0.0.1  | ✓         |
 | [IV-24-25 FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/1)                       | v0.0.1  | ✓         |
 | [Enlace de FerniCuesta](https://github.com/FerniCuesta/DrivePlanner/pull/1)                    | v0.0.2  | ✓         |
-| [Enlace de Leon Daus](https://github.com/1E04/IV_cdc_crypto_organiser/pull/1)                  | v0.0.2  |           |
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/1)                 | v0.0.6  | ✓         |
 | [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/1)                         | v0.0.1  | ✓         |
 | [Enlace de clara99gf](https://github.com/clara99gf/easy-gains/pull/1)                          | v0.0.1  | ✓         |
