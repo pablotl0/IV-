@@ -16,6 +16,11 @@ errores. Pero el verdadero error es no tratar de hacer el trabajo, sino mirar
 como lo ha hecho otra persona, así que sirve de muy poco expliar por qué están
 mal si no interesa aprender por qué es así.
 
+> En general, si se encuentra uno o más de estos "patrones suficientemente
+> repetidos" se señalará el error, se apuntará a este fichero de errores comunes
+> y se dejará de corregir, con lo que el estudiante tendrá que hacer otra ronda
+> de correcciones.
+
 Por si no ha quedado claro en las correcciones hasta ahora, hacer esto cuesta
 caro en términos de tiempo perdido por el estudiante (que seguramente de haber
 intentado entender qué se hace y por qué habría tardado menos) pero sobre todo
