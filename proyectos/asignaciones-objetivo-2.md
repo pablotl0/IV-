@@ -9,5 +9,5 @@
 | adiazcencillo   | MarioRgzLpz              |
 | juanbarearojo   | hossam1522               |
 | hossam1522      | wickeet                  |
-| jlombar         | adiazcencillo            |
+| JLombar         | adiazcencillo            |
 |                 |                          |
