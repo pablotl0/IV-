@@ -46,6 +46,7 @@ iniciales.
 | <!-- Enlace de alvarorcs2002 -->                                                               |         |           |
 | [Enlace de eigenric](https://github.com/eigenric/lyricfeel/pull/1)                             | v0.0.2  | ✓         |
 | [Enlace de enger2003](https://github.com/enger2003/Practica_IV/pull/3)                         | v0.0.7  |           |
+| [Enlace de sweetiepitie](https://github.com/sweetiepitie/TripSplit/pull/1)                     | v0.0.1  |           |
 | [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)                                  | v0.0.2  | ✓         |
 | [Enlace de ChinChainis ](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/1) | v0.0.2  | ✓         |
 | [Enlace de anavaln](https://github.com/anavaln/receitasIV/pull/1)                              | v0.0.1  |           |
