@@ -18,6 +18,32 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
   pregunta sobre si lo que se hace está bien, y sobre todo oscurecen una
   documentación que debería ser solamente técnica.
 
+## Errores de los revisores
+
+- No se trata de una evaluación donde se esté aprobando o suspendiendo al
+  compañero/a. Se trata de una revisión técnica, donde la persona que haya
+  abierto el PR tiene que incluir una información que esté clara para todo el
+  mundo. Si no está clara para el estudiante, o simplemente no la entiende, se
+  puede preguntar y se debe responder porque se trata de que las dos personas lo
+  entiendan, y lo entiendan de la misma manera.
+- Hasta que no se entienda lo que se ha escrito, no se resuelvan
+  *satisfactoriamente* todos los comentarios y sobre todo no corresponda lo que
+  está escrito al guión y a la lista de comprobación, *no se debe aprobar*. Si
+  se aprueba prematuramente por quedar bien para empezar es posible que la
+  persona que apruebe no haya aprendido adecuadamente los conceptos involucrados
+  (lo que va a volverse en su contra si es que todavía no está aprobado su PR),
+  pero lo más seguro es que la persona que ha hecho el PR no los entienda y por
+  lo tanto va a ser eventualmente más trabajo para el profesor y para ella.
+- Ni la persona que comenta ni quien ha hecho el PR deben imponer soluciones
+  específicas a la otra. No hay soluciones óptimas, hay soluciones que presentan
+  uno o dos o muchos problemas, y por supuesto formas mejores o peores de
+  transmitir esas soluciones codificadas en el PR. Si la persona que ha hecho el
+  PR dice "esto es así porque el profesor ha dicho esto o lo otro, o porque no
+  ha dicho nada así que lo pongo" generalmente está equivocada. Si la persona
+  que revisa dice "esta solución es incorrecta, pon esta otra" también está
+  equivocada. Un PR no se hace nunca para imponer soluciones, sino para aprender
+  juntos.
+
 ## Sobre los milestones
 
 * Escribir en el primer milestone (milestone 0) "Modelo del problema" no es
