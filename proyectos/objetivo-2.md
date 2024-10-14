@@ -24,7 +24,7 @@ iniciales.
 | <!-- Enlace de SantiGarvin -->         |         |           |
 | <!-- Enlace de evaanngiil -->          |         |           |
 | <!-- Enlace de blancagiron -->         |         |           |
-| <!-- Enlace de GaelGoncalvesAlba -->   |         |           |
+| <!-- Enlace de GaelGoncAlba -->        |         |           |
 | <!-- Enlace de abbonno -->             |         |           |
 | <!-- Enlace de oscargr-ugr -->         |         |           |
 | <!-- Enlace de davidgutierrezperez --> |         |           |
