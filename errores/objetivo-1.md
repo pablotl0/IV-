@@ -1,5 +1,30 @@
 # Errores frecuentes objetivo 1
 
+> Para empezar, el [error frecuente del objetivo 0 mencionado en la
+introducción](https://github.com/JJ/IV-/blob/master/errores/objetivo-0.md) se
+sigue produciendo. En este caso, cosas como:
+    - Poner el "objetivo" de un milestone.
+    - Poner "HUs asociadas"
+    - Poner primero "modelo del problema", luego "estructura del problema", y
+      luego "dominio del problema", sin entender en ningún caso de qué se está
+      hablando.
+    - Poner 4 o 5 milestones.
+    - Poner "el milestone lo validará el validador".
+
+Todos estos errores frecuentes están abajo explicados y por qué son
+errores. Pero el verdadero error es no tratar de hacer el trabajo, sino mirar
+como lo ha hecho otra persona, así que sirve de muy poco expliar por qué están
+mal si no interesa aprender por qué es así.
+
+Por si no ha quedado claro en las correcciones hasta ahora, hacer esto cuesta
+caro en términos de tiempo perdido por el estudiante (que seguramente de haber
+intentado entender qué se hace y por qué habría tardado menos) pero sobre todo
+tiempo perdido por el profesor, que hace comentarios dos o tres o cinco veces
+sobre el mismo contenido que no van a servir para nada, porque no corresponden a
+un entendimiento equivocado de un concepto, sino a la falta no sólo de
+entendimiento, sino de la necesidad de entender tal concepto. Tiempo que resta
+para ayudar a compañeros que sí puedan necesitarlo.
+
 En este objetivo y en todos los demás debe haber en el PR *sólo* lo que sea
 relevante para la corrección del mismo. Si hay que cambiar algún fichero de
 nombre, meter un fichero o borrarlo, se hace en la rama principal *antes* de
