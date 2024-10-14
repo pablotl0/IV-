@@ -64,6 +64,11 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
   niveles de abstracción a la hora de trabajar con el problema. Decir que uno
   tenga "2 cosas" y otro "3 cosas" divide de forma artificial el problema,
   porque igual de trabajo cuesta programar para 3 cosas que para 5.
+  
+* En desarrollo ágil más allá de dos milestones por delante no tiene mucho
+  sentido planificar. Pero si se hace, conviene que se mire la progresión de
+  objetivos de la asignatura para que se ajusten, en lo posible, a lo que se
+  encuentra ahí.
 
 ## Sobre las historias de usuario
 
