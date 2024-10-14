@@ -11,10 +11,11 @@ sigue produciendo. En este caso, cosas como:
     - Poner 4 o 5 milestones.
     - Poner "el milestone lo validará el validador".
 
-Todos estos errores frecuentes están abajo explicados y por qué son
-errores. Pero el verdadero error es no tratar de hacer el trabajo, sino mirar
-como lo ha hecho otra persona, así que sirve de muy poco expliar por qué están
-mal si no interesa aprender por qué es así.
+Todos estos errores frecuentes están explicados abajo; también se explica por
+qué son errores. Pero el verdadero error es no tratar de hacer el trabajo
+necesario para superar el objetivo, sino mirar como lo ha hecho otra persona,
+así que sirve de muy poco explicar por qué están mal si no interesa aprender por
+qué es así.
 
 > En general, si se encuentra uno o más de estos "patrones suficientemente
 > repetidos" se señalará el error, se apuntará a este fichero de errores comunes
