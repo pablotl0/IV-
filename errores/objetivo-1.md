@@ -143,4 +143,5 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
   términos del problema que necesiten explicación, sobre todo en el
   marco de poder entender por qué es un problema trabajar con esos
   términos o hacer esa actividad.
-  
+
+* Sólo hay que incluir las HUs que realmente se vayan a usar en el desarrollo.
