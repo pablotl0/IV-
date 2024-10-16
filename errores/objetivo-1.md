@@ -41,7 +41,14 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
 (añadiendo a la principal y mergeando de la principal a la secundaria)
 
 - Se deben resolver *todos* los comentarios. Igualmente quien comente no debe
-  aprobar hasta que no se hayan resuelto todos los comentarios.
+  aprobar hasta que no se hayan resuelto todos los comentarios. Y no resolverlos
+  cambiando la línea poniendo a veces frases absurdas. Esto representa doble
+  trabajo para quien revisa: tiene que mirar el comentario original. Todo lo que
+  se cambia se queda registrado, y si se cambia una palabra por otra o se añade
+  una palabra para eliminarlo lo único que genera es trabajo adicional para el
+  profesor, pero sobre todo una sensación de que el estudiante no tiene interés
+  en aprender nada relacionado con el objetivo, sino simplemente quitárselo de
+  en medio.
 
 - Es un error demasiado común escribir *mucho*. Escribir *mucho* no hace que los
   revisores entiendan que has comprendido el concepto del objetivo. La brevedad
