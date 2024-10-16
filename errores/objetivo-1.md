@@ -124,14 +124,24 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
   ha hecho. Se debe decir la forma general del producto o qué tiene que hacer el
   producto para ser válido, no qué contiene, porque para eso es mejor que lo
   haga directamente quien lo dice.
- 
+
 * El exceso de detalles hace que se fuerce a soluciones determinadas, y hace que
   haya que cambiar una cantidad excesiva de cosas. Los milestones son
   agrupaciones de productos de complejidad creciente, que creen diferentes
   niveles de abstracción a la hora de trabajar con el problema. Decir que uno
   tenga "2 cosas" y otro "3 cosas" divide de forma artificial el problema,
   porque igual de trabajo cuesta programar para 3 cosas que para 5.
-  
+
+* A veces esos detalles vienen en forma de "palabras mágicas", por ejemplo,
+  mencionar DDD, explicar que se trata de "expresar relaciones entre la
+  estructura y no sé qué". ¿Ayudan en algo a entender ese milestone o
+  simplemente tratan de ocultar que no se entiende realmente qué es lo que se le
+  va a pedir al otro usuario en el objetivo 2? En cuanto a mencionar DDD, ¿qué
+  pasa si no se documenta el uso de DDD? ¿Se va a rechazar el entregable? (Y ya
+  digo desde ahora que *nadie* usa DDD ni lo documenta). Aparte que es sólo un
+  ejemplo de metodología. Hay otras metodologías para esta fase, como hay
+  metodologías para todas las fases del desarrollo.
+
 * En desarrollo ágil más allá de dos milestones por delante no tiene mucho
   sentido planificar. Pero si se hace, conviene que se mire la progresión de
   objetivos de la asignatura para que se ajusten, en lo posible, a lo que se
