@@ -13,7 +13,7 @@ iniciales.
 | [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/2)                   | v0.1.2  | ✓         |
 | <!-- Enlace de sweetiepitie --> | | |
 | [Enlace de jacarmona364](https://github.com/jacarmona364/Riskalc/pull/2)                         | v0.1.1  |           |
-| <!-- Enlace de lmchaves -->                                                                      |         |           |
+| [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/7)                         |         |           
 | [Enlace de FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/4)                        | v0.1.1  | ✓         |
 | [Enlace de FerniCuesta](https://github.com/FerniCuesta/DrivePlanner/pull/2)                      | v0.1.2  |           |
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/5)                   | v0.1.1  | ✓         |
