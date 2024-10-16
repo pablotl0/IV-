@@ -3,15 +3,16 @@
 Para empezar, el [error frecuente del objetivo 0 mencionado en la
 introducción](https://github.com/JJ/IV-/blob/master/errores/objetivo-0.md) se
 sigue produciendo. En este caso, cosas como:
-    - Poner el "objetivo" de un milestone.
-    - Poner "HUs asociadas"
-    - Poner primero "modelo del problema", luego "estructura del problema", y
-      luego "dominio del problema", sin entender en ningún caso de qué se está
+
+- Poner el "objetivo" de un milestone.
+- Poner "HUs asociadas"
+- Poner primero "modelo del problema", luego "estructura del problema", y
+  luego "dominio del problema", sin entender en ningún caso de qué se está
       hablando. O decir "se va a modelizar las entidades y las relaciones entre
-      ellas". ¿No es eso un modelo del problema? 
-    - Poner 4 o 5 milestones.
-    - Poner "el milestone lo validará el validador".
-    - Decir que el código debe ser "flexible y adaptable". ¿Cómo se mide eso?
+      ellas". ¿No es eso un modelo del problema?
+- Poner 4 o 5 milestones.
+- Poner "el milestone lo validará el validador".
+- Decir que el código debe ser "flexible y adaptable". ¿Cómo se mide eso?
 
 Todos estos errores frecuentes están explicados abajo; también se explica por
 qué son errores. Pero el verdadero error es no tratar de hacer el trabajo
