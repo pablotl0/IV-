@@ -8,12 +8,12 @@ iniciales.
 
 | URL                                                                                              | Versión | Alcanzado |
 |--------------------------------------------------------------------------------------------------|---------|-----------|
-| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/6)                         | v0.1.2  |           |
+| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/6)                         | v0.1.2  | ✓         |
 | [Enlace de giorgiogiovanni](https://github.com/giorgiogiovanni/PacketManager/pull/5)             | v0.1.1  | ✓         |
 | [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/2)                   | v0.1.2  | ✓         |
-| <!-- Enlace de sweetiepitie --> | | |
+| <!-- Enlace de sweetiepitie -->                                                                  |         |           |
 | [Enlace de jacarmona364](https://github.com/jacarmona364/Riskalc/pull/2)                         | v0.1.1  |           |
-| [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/7)                         | v0.1.1  |           
+| [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/7)                         | v0.1.1  |           |
 | [Enlace de FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/4)                        | v0.1.1  | ✓         |
 | [Enlace de FerniCuesta](https://github.com/FerniCuesta/DrivePlanner/pull/2)                      | v0.1.2  |           |
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/5)                   | v0.1.1  | ✓         |
@@ -25,7 +25,7 @@ iniciales.
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/6)                      | v0.1.1  |           |
 | [Enlace de GaelGoncalba](https://github.com/GaelGoncalba/AutoShopping/pull/5)                    | v0.1.2  |           |
 | [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/2)                           | v0.1.2  |           |
-| <!-- Enlace de oscargr-ugr --> | | |
+| <!-- Enlace de oscargr-ugr -->                                                                   |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                                           |         |           |
 | [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/3) | v0.1.3  |           |
 | <!-- Enlace de Katakuri00 -->                                                                    |         |           |
@@ -42,7 +42,7 @@ iniciales.
 | <!-- Enlace de LuRDR -->                                                                         |         |           |
 | [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/5)                     | v0.1.1  | ✓         |
 | [Enlace de antoniorr02](https://github.com/antoniorr02/MenuConsulter/pull/3)                     | v0.1.4  | ✓         |
-| <!-- Enlace de alvarorcs2002 --> | | |
+| <!-- Enlace de alvarorcs2002 -->                                                                 |         |           |
 | [Enlace de eigenric](https://github.com/eigenric/bibliofetch/pull/5)                             | v0.1.1  |           |
 | [Enlace de enger2003](https://github.com/enger2003/Practica_IV/pull/5)                           | v0.1.2  |           |
 | [Enlace de wickeet](https://github.com/wickeet/Tripoli/pull/2)                                   | v0.1.2  | ✓         |
