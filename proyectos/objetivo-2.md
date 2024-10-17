@@ -31,7 +31,7 @@ iniciales.
 | <!-- Enlace de MatteoImbrosciano -->   |         |           |
 | <!-- Enlace de Katakuri00 -->          |         |           |
 | <!-- Enlace de MCL-2024 -->            |         |           |
-| <!-- Enlace de JLombar -->             |         |           |
+| [Enlace de JLombar](https://github.com/adiazcencillo/GranadaInfo/pull/11) |  v0.2.0   |           |
 | <!-- Enlace de joselopez10014 -->      |         |           |
 | <!-- Enlace de mmnuria -->             |         |           |
 | <!-- Enlace de M S C -->               |         |           |
