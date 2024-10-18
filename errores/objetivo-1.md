@@ -115,7 +115,11 @@ en clase dedicado a la asignatura.
   o incluso ser problemas diferentes. En todo caso, siempre es conveniente ser
   preciso en el lenguaje, porque en el momento que se vaya a trabajar con un
   milestone determinado puede haber más historias de usuario, o menos, así que
-  aclarar a qué parte del problema del cliente se circunscribe siempre es conveniente.
+  aclarar a qué parte del problema del cliente se circunscribe siempre es
+  conveniente.
+  - De la misma forma, enlazar *todas* las historias de usuario sólo indica
+    dejadez y falta de precisión a la hora de indicar a la persona que trabaje
+    qué es lo que debe hacer.
 
 * Por favor, no inventéis y pidáis cosas que no vienen a cuento ni sirven
   realmente para nada. Estoy pensando en pedir "documentos" con el modelo del
