@@ -59,6 +59,12 @@ añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
   pregunta sobre si lo que se hace está bien, y sobre todo oscurecen una
   documentación que debería ser solamente técnica.
 
+- Si se entiende cualquier pregunta o comentario que se hace en el PR como "hay
+  que cambiar esto por cualquier otra cosa" no se va a avanzar hacia la
+  consecución del objetivo. Se debe de intentar contestar a las preguntas que se
+  hacen, y si las respuestas no se conocen o no son satisfactorias, se debe
+  simplemente eliminar el texto correspondiente.
+
 ## Errores de los revisores
 
 - No se trata de una evaluación donde se esté aprobando o suspendiendo al
