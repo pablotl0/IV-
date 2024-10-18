@@ -41,6 +41,11 @@ crear la rama desde la que se lanza el PR. Y si ya se ha hecho, habrá que
 añadirlo a la rama principal y *quitarlo* de la secundaria haciendo un rebase
 (añadiendo a la principal y mergeando de la principal a la secundaria)
 
+Finalmente, dejar de venir a clase ya en este objetivo, cuando todavía no se
+conoce o no se maneja bien la mecánica de la asignatura, demuestra una falta de
+interés que sólo perjudica al estudiante, que no tiene ni siquiera el tiempo
+en clase dedicado a la asignatura.
+
 - Se deben resolver *todos* los comentarios. Igualmente quien comente no debe
   aprobar hasta que no se hayan resuelto todos los comentarios. Y no resolverlos
   cambiando la línea poniendo a veces frases absurdas. Esto representa doble
