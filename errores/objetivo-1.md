@@ -171,3 +171,9 @@ en clase dedicado a la asignatura.
   términos o hacer esa actividad.
 
 * Sólo hay que incluir las HUs que realmente se vayan a usar en el desarrollo.
+
+## Sobre los *user journeys*
+
+Los user journeys sirven principalmente para añadir detalle y contexto a las
+historias de usuario. Por lo tanto, ponerlos de forma independiente sin ningún
+enlace con las mismas les priva de utilidad.
