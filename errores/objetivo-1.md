@@ -13,6 +13,7 @@ sigue produciendo. En este caso, cosas como:
 - Poner 4 o 5 milestones.
 - Poner "el milestone lo validará el validador".
 - Decir que el código debe ser "flexible y adaptable". ¿Cómo se mide eso?
+- Decir que en el milestone 0 hay que hacer un "análisis detallado".
 
 Todos estos errores frecuentes están explicados abajo; también se explica por
 qué son errores. Pero el verdadero error es no tratar de hacer el trabajo
