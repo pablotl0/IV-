@@ -13,6 +13,7 @@ sigue produciendo. En este caso, cosas como:
 - Poner 4 o 5 milestones.
 - Poner "el milestone lo validará el validador".
 - Decir que el código debe ser "flexible y adaptable". ¿Cómo se mide eso?
+- Decir que en el milestone 0 hay que hacer un "análisis detallado".
 
 Todos estos errores frecuentes están explicados abajo; también se explica por
 qué son errores. Pero el verdadero error es no tratar de hacer el trabajo
@@ -115,7 +116,11 @@ en clase dedicado a la asignatura.
   o incluso ser problemas diferentes. En todo caso, siempre es conveniente ser
   preciso en el lenguaje, porque en el momento que se vaya a trabajar con un
   milestone determinado puede haber más historias de usuario, o menos, así que
-  aclarar a qué parte del problema del cliente se circunscribe siempre es conveniente.
+  aclarar a qué parte del problema del cliente se circunscribe siempre es
+  conveniente.
+  - De la misma forma, enlazar *todas* las historias de usuario sólo indica
+    dejadez y falta de precisión a la hora de indicar a la persona que trabaje
+    qué es lo que debe hacer.
 
 * Por favor, no inventéis y pidáis cosas que no vienen a cuento ni sirven
   realmente para nada. Estoy pensando en pedir "documentos" con el modelo del
@@ -142,6 +147,9 @@ en clase dedicado a la asignatura.
   niveles de abstracción a la hora de trabajar con el problema. Decir que uno
   tenga "2 cosas" y otro "3 cosas" divide de forma artificial el problema,
   porque igual de trabajo cuesta programar para 3 cosas que para 5.
+  - Otro ejemplo es decir "hacer un modelo que incluya la clase a, b y la
+    c". "Hacer un modelo" es precisamente saber cuales son esas clases y qué es
+    lo que incluyen o cómo se comportan. 
 
 * A veces esos detalles vienen en forma de "palabras mágicas", por ejemplo,
   mencionar DDD, explicar que se trata de "expresar relaciones entre la
@@ -166,3 +174,9 @@ en clase dedicado a la asignatura.
   términos o hacer esa actividad.
 
 * Sólo hay que incluir las HUs que realmente se vayan a usar en el desarrollo.
+
+## Sobre los *user journeys*
+
+Los user journeys sirven principalmente para añadir detalle y contexto a las
+historias de usuario. Por lo tanto, ponerlos de forma independiente sin ningún
+enlace con las mismas les priva de utilidad.

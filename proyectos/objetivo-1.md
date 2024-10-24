@@ -27,7 +27,7 @@ iniciales.
 | [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/2)                           | v0.1.2  |           |
 | <!-- Enlace de oscargr-ugr -->                                                                   |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                                           |         |           |
-| [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/3) | v0.1.3  |           |
+| [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/3) | v0.1.3  | ✓         |
 | <!-- Enlace de Katakuri00 -->                                                                    |         |           |
 | <!-- Enlace de MCL-2024 -->                                                                      |         |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/2)                     | v0.1.4  | ✓         |

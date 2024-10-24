@@ -9,16 +9,16 @@ iniciales.
 
 | URL                                    | Versión | Alcanzado |
 |----------------------------------------|---------|-----------|
-| <!-- Enlace de juanmaaf -->            |         |           |
+| [Enlace de juanmaaf](https://github.com/JLombar/HorariosAutomatricula/pull/11) |  v0.2.1   |           |
 | <!-- Enlace de giorgiogiovanni -->     |         |           |
 | <!-- Enlace de juanbarearojo -->       |         |           |
 | <!-- Enlace de sweetiepitie -->        |         |           |
 | <!-- Enlace de jacarmona364 -->        |         |           |
 | <!-- Enlace de lmchaves -->            |         |           |
-| <!-- Enlace de FabriConde -->          |         |           |
+| [Enlace de FabriConde](https://github.com/juanbarearojo/privateChef/pull/15) | v0.2.6      |           |
 | <!-- Enlace de FerniCuesta -->         |         |           |
 | <!-- Enlace de adiazcencillo -->       |         |           |
-| <!-- Enlace de hossam1522 -->          |         |           |
+| [Enlace de hossam1522](https://github.com/wickeet/Tripoli/pull/7) |   v0.2.2      |           |
 | <!-- Enlace de clara99gf -->           |         |           |
 | <!-- Enlace de Antoniogm03 -->         |         |           |
 | <!-- Enlace de SantiGarvin -->         |         |           |
@@ -41,7 +41,7 @@ iniciales.
 | <!-- Enlace de Pablorc7 -->            |         |           |
 | <!-- Enlace de mrh117 -->              |         |           |
 | <!-- Enlace de LuRDR -->               |         |           |
-| <!-- Enlace de MarioRgzLpz -->         |         |           |
+| [Enlace de MarioRgzLpz](https://github.com/antoniorr02/MenuConsulter/pull/12) |  v0.2.1   |           |
 | [Enlace de antoniorr02](https://github.com/giorgiogiovanni/PacketManager/pull/12) | v0.2.2 |           |
 | <!-- Enlace de alvarorcs2002 -->       |         |           |
 | <!-- Enlace de eigenric -->            |         |           |
