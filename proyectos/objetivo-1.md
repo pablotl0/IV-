@@ -22,7 +22,7 @@ iniciales.
 | [Enlace de Antoniogm03](https://github.com/Antoniogm03/RepartoComida/pull/3)                     | v0.1.2  |           |
 | <!-- Enlace de SantiGarvin -->                                                                   |         |           |
 | [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/10)                      | v0.1.1  |           |
-| [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/6)                      | v0.1.1  |           |
+| [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/6)                      | v0.1.1  | ✓         |
 | [Enlace de GaelGoncalba](https://github.com/GaelGoncalba/AutoShopping/pull/5)                    | v0.1.2  |           |
 | [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/2)                           | v0.1.2  |           |
 | <!-- Enlace de oscargr-ugr -->                                                                   |         |           |
