@@ -48,7 +48,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
    proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
 
-## Clases 17 y 18 de octubre
+## Clases 24 y 25 de octubre
 
 * Para *quien no haya superado el objetivo 0*: revisión de errores frecuentes, y entrega lo antes posible.
 * Revisión de conceptos del [objetivo
@@ -66,4 +66,4 @@ tratar de evitarlos.
 
 ## Otras sesiones
 
-[Semana anterior](semana-04.md) y [siguiente](semana-06.md)
+[Semana anterior](semana-05.md) y [siguiente](semana-07.md)
