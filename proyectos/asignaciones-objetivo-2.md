@@ -13,3 +13,5 @@
 | juanmaaf          | JLombar                  |
 | wickeet           | MatteoImbrosciano        |
 | MatteoImbrosciano | juanmaaf                 |
+| ChinChainis | blancagiron                 |
+| blancagiron | ChinChainis                 |
