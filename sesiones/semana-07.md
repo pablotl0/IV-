@@ -7,7 +7,7 @@ entregado o superado ya en cursos anteriores)
 
 ### Objetivos superados
 
-* El 50% de los aprobados había superado el objetivo 2
+* El 50% de los aprobados en años anteriores había superado el objetivo 2
 
 
 ## Objetivos alcanzados hasta ahora
