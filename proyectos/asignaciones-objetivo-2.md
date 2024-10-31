@@ -15,3 +15,5 @@
 | MatteoImbrosciano | juanmaaf                 |
 | ChinChainis | blancagiron                 |
 | blancagiron | ChinChainis                 |
+| eigenric | Mario25402                 |
+| Mario25402                 | eigenric |
