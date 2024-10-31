@@ -7,13 +7,24 @@ entregado o superado ya en cursos anteriores)
 
 ### Objetivos superados
 
-* El 50% de los aprobados en años anteriores había superado el objetivo 2
+En estas fechas, el 50% de los aprobados en años anteriores había superado el objetivo 2
 
 
 ## Objetivos alcanzados hasta ahora
 
 ```
-
+ 0 🧮: 21%🚧 69%✅  9%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌
+ 1 🧮: 23%🚧 35%✅ 40%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 2 🧮: 21%🚧  2%✅ 76%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
 ```
 
 ## Material de la asignatura
