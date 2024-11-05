@@ -13,7 +13,7 @@
 | <!-- Enlace de SantiGarvin --> | | |
 | <!-- Enlace de evaanngiil --> | | |
 | <!-- Enlace de blancagiron --> | | |
-| <!-- Enlace de GaelGoncAlba --> | | |
+| <!-- Enlace de GaelGoncalba --> | | |
 | <!-- Enlace de abbonno --> | | |
 | <!-- Enlace de oscargr-ugr --> | | |
 | <!-- Enlace de davidgutierrezperez --> | | |
