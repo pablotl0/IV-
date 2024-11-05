@@ -35,7 +35,7 @@ iniciales.
 | [Enlace de nuriamanzanomata](https://github.com/mmnuria/PersonalSportCalendary/pull/1)         | v0.0.1  | ✓         |
 | <!-- Enlace de M S C -->                                                                       |         |           |
 | <!-- Enlace de javiernavacapa -->                                                              |         |           |
-| [Enlace de Carlosmapego8](https://github.com/Carlosmapego8/GoMountain/pull/1)                  | v0.0.1  |           |
+| [Enlace de Carlosmapego8](https://github.com/Carlosmapego8/GoMountain/pull/1)                  | v0.0.1  | ✓         |
 | [Enlace de Mario25402](https://github.com/Mario25402/Calendar/pull/2)                          | v0.0.2  | ✓         |
 | [Enlace de Pablorc7](https://github.com/Pablorc7/Smart-Eats/pull/1)                            | v0.0.1  |           |
 | [Enlace de mrh117](https://github.com/mrh117/proyectoupgrade/pull/1)                           | v0.0.1  | ✓         |
