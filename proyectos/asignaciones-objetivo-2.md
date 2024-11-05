@@ -1,4 +1,19 @@
 # Asignaciones objetivo 2
 
-| Quien          | Trabaja sobre el repo de |
-|----------------|---------------------|
+| Quien             | Trabaja sobre el repo de |
+|-------------------|--------------------------|
+| MarioRgzLpz       | antoniorr02              |
+| antoniorr02       | giorgiogiovanni          |
+| giorgiogiovanni   | FabriConde               |
+| FabriConde        | juanbarearojo            |
+| adiazcencillo     | MarioRgzLpz              |
+| juanbarearojo     | hossam1522               |
+| hossam1522        | wickeet                  |
+| JLombar           | adiazcencillo            |
+| juanmaaf          | JLombar                  |
+| wickeet           | MatteoImbrosciano        |
+| MatteoImbrosciano | juanmaaf                 |
+| ChinChainis | blancagiron                 |
+| blancagiron | ChinChainis                 |
+| eigenric | Mario25402                 |
+| Mario25402                 | eigenric |
