@@ -6,8 +6,6 @@ la línea con tu nick de GitHub (si lo has proporcionado). Si no lo has hecho,
 primero ponlo en la hoja de equivalencias y a continuación usa la línea con tus
 iniciales.
 
-
-=======
 | URL                                                                                              | Versión | Alcanzado |
 |--------------------------------------------------------------------------------------------------|---------|-----------|
 | [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/6)                         | v0.1.2  | ✓         |
@@ -51,5 +49,4 @@ iniciales.
 | [Enlace de ChinChainis](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/5)    | v0.1.2  | ✓         |
 | <!-- Enlace de anavaln -->                                                                       |         |           |
 | [Enlace de pablotl0](https://github.com/pablotl0/EnviroTrack/pull/5)                             | v0.1.5  |           |
-
 
