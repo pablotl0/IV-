@@ -35,7 +35,7 @@ iniciales.
 | [Enlace de mmnuria](https://github.com/mmnuria/PersonalSportCalendary/pull/6)                    | v0.1.3  |           |
 | <!-- Enlace de M S C -->                                                                         |         |           |
 | <!-- Enlace de javiernavacapa -->                                                                |         |           |
-| <!-- Enlace de Carlosmapego8 -->                                                                 |         |           |
+| [Enlace de Carlosmapego8](https://github.com/Carlosmapego8/GoMountain/pull/4)        | v0.1.1  |           |
 | [Enlace de Mario25402](https://github.com/Mario25402/AskETSIIT/pull/9)                           | v0.1.3  | ✓         |
 | <!-- Enlace de Pablorc7 -->                                                                      |         |           |
 | <!-- Enlace de mrh117 -->                                                                        |         |           |
