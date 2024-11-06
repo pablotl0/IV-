@@ -18,7 +18,7 @@ iniciales.
 | [Enlace de FabriConde](https://github.com/juanbarearojo/privateChef/pull/15)        | v0.2.6  |           |
 | <!-- Enlace de FerniCuesta -->                                                      |         |           |
 | [Enlace de adiazcencillo](https://github.com/MarioRgzLpz/ArbitrageBets/pull/12)     | v0.2.2  | ✓         |
-| [Enlace de hossam1522](https://github.com/wickeet/Tripoli/pull/7)                   | v0.2.2  |           |
+| [Enlace de hossam1522](https://github.com/wickeet/Tripoli/pull/7)                   | v0.2.2  | ✓         |
 | <!-- Enlace de clara99gf -->                                                        |         |           |
 | <!-- Enlace de Antoniogm03 -->                                                      |         |           |
 | <!-- Enlace de SantiGarvin -->                                                      |         |           |
