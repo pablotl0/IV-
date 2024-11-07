@@ -32,7 +32,7 @@ iniciales.
 | <!-- Enlace de MCL-2024 -->                                                                      |         |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/2)                     | v0.1.4  | ✓         |
 | <!-- Enlace de joselopez10014 -->                                                                |         |           |
-| [Enlace de mmnuria](https://github.com/mmnuria/PersonalSportCalendary/pull/6)                    | v0.1.3  |           |
+| [Enlace de mmnuria](https://github.com/mmnuria/PersonalSportCalendary/pull/6)                    | v0.1.3  | ✓          |
 | <!-- Enlace de M S C -->                                                                         |         |           |
 | <!-- Enlace de javiernavacapa -->                                                                |         |           |
 | [Enlace de Carlosmapego8](https://github.com/Carlosmapego8/GoMountain/pull/4)        | v0.1.1  |           |
