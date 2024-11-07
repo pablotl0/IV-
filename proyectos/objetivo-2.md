@@ -41,7 +41,7 @@ iniciales.
 | <!-- Enlace de Pablorc7 -->                                                         |         |           |
 | <!-- Enlace de mrh117 -->                                                           |         |           |
 | <!-- Enlace de LuRDR -->                                                            |         |           |
-| [Enlace de MarioRgzLpz](https://github.com/antoniorr02/MenuConsulter/pull/12)       | v0.2.1  |           |
+| [Enlace de MarioRgzLpz](https://github.com/antoniorr02/MenuConsulter/pull/12)       | v0.2.1  |   ✓         |
 | [Enlace de antoniorr02](https://github.com/giorgiogiovanni/PacketManager/pull/12)   | v0.2.3  |           |
 | <!-- Enlace de alvarorcs2002 -->                                                    |         |           |
 | <!-- Enlace de eigenric -->                                                         |         |           |
