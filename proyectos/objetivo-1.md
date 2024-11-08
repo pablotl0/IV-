@@ -13,7 +13,7 @@ iniciales.
 | [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/2)                   | v0.1.2  | ✓         |
 | <!-- Enlace de sweetiepitie -->                                                                  |         |           |
 | [Enlace de jacarmona364](https://github.com/jacarmona364/Riskalc/pull/2)                         | v0.1.1  |           |
-| [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/8)                         | v0.1.2  |           |
+| [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/8)                         | v0.1.2  | ✓          |
 | [Enlace de FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/4)                        | v0.1.1  | ✓         |
 | [Enlace de FerniCuesta](https://github.com/FerniCuesta/DrivePlanner/pull/2)                      | v0.1.2  |           |
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/5)                   | v0.1.1  | ✓         |
@@ -21,7 +21,7 @@ iniciales.
 | [Enlace de clara99gf](https://github.com/clara99gf/easy-gains/pull/7)                            | v0.1.2  |           |
 | [Enlace de Antoniogm03](https://github.com/Antoniogm03/RepartoComida/pull/3)                     | v0.1.2  |           |
 | <!-- Enlace de SantiGarvin -->                                                                   |         |           |
-| [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/10)                      | v0.1.1  |           |
+| [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/10)                      | v0.1.1  | ✓         |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/6)                      | v0.1.1  | ✓         |
 | [Enlace de GaelGoncalba](https://github.com/GaelGoncalba/AutoShopping/pull/5)                    | v0.1.2  |           |
 | [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/2)                           | v0.1.2  |   ✓        |
@@ -48,5 +48,5 @@ iniciales.
 | [Enlace de wickeet](https://github.com/wickeet/Tripoli/pull/2)                                   | v0.1.2  | ✓         |
 | [Enlace de ChinChainis](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/5)    | v0.1.2  | ✓         |
 | <!-- Enlace de anavaln -->                                                                       |         |           |
-| [Enlace de pablotl0](https://github.com/pablotl0/EnviroTrack/pull/5)                             | v0.1.5  |           |
+| [Enlace de pablotl0](https://github.com/pablotl0/EnviroTrack/pull/5)                             | v0.1.5  |  ✓         |
 
