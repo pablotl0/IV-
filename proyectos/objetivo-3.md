@@ -35,7 +35,7 @@
 | <!-- Enlace de Pablorc7 -->            |         |           |
 | <!-- Enlace de mrh117 -->              |         |           |
 | <!-- Enlace de LuRDR -->               |         |           |
-| <!-- Enlace de MarioRgzLpz -->         |         |           |
+| [Enlace de MarioRgzLpz](https://github.com/MarioRgzLpz/ArbitrageBets/pull/18)          | v0.3.1  |           |
 | <!-- Enlace de antoniorr02 -->         |         |           |
 | <!-- Enlace de alvarorcs2002 -->       |         |           |
 | <!-- Enlace de eigenric -->            |         |           |
