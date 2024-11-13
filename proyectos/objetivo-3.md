@@ -3,7 +3,7 @@
 
 | URL                                    | Versión | Alcanzado |
 |----------------------------------------|---------|-----------|
-| <!-- Enlace de juanmaaf -->            |         |           |
+| [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/13)   |  v0.3.1   |           |
 | <!-- Enlace de giorgiogiovanni -->     |         |           |
 | <!-- Enlace de juanbarearojo -->       |         |           |
 | <!-- Enlace de sweetiepitie -->        |         |           |
