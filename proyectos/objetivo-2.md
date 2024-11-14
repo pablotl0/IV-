@@ -25,7 +25,7 @@ iniciales.
 | <!-- Enlace de evaanngiil -->                                                          |         |           |
 | <!-- Enlace de blancagiron -->                                                         |         |           |
 | <!-- Enlace de GaelGoncAlba -->                                                        |         |           |
-| [Enlace de abbonno](https://github.com/mmnuria/PersonalSportCalendary/pull/10)         | v0.2.4  |           |
+| <!--Enlace de abbonno-->                                                               |         |           |
 | <!-- Enlace de oscargr-ugr -->                                                         |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                                 |         |           |
 | [Enlace de Matteo Imbrosciano](https://github.com/juanmaaf/MoneyController/pull/11)    | v0.2.1  | ✓         |
@@ -33,7 +33,7 @@ iniciales.
 | <!-- Enlace de MCL-2024 -->                                                            |         |           |
 | [Enlace de JLombar](https://github.com/adiazcencillo/GranadaInfo/pull/11)              | v0.2.2  | ✓         |
 | <!-- Enlace de joselopez10014 -->                                                      |         |           |
-| <!-- Enlace de mmnuria -->                                                             |         |           |
+| [Enlace de mmnuria](https://github.com/mmnuria/PersonalSportCalendary/pull/10)         | v0.2.4  |           |
 | <!-- Enlace de M S C -->                                                               |         |           |
 | <!-- Enlace de javiernavacapa -->                                                      |         |           |
 | <!-- Enlace de Carlosmapego8 -->                                                       |         |           |
