@@ -22,7 +22,8 @@ iniciales.
 | <!-- Enlace de clara99gf -->                                                           |         |           |
 | <!-- Enlace de Antoniogm03 -->                                                         |         |           |
 | <!-- Enlace de SantiGarvin -->                                                         |         |           |
-| <!-- Enlace de evaanngiil -->                                                          |         |           |
+| [Enlace de evaanngiil](https://github.com/lmchaves/OrganizarTaller/pull/14)
+| v0.2.1  |           |
 | <!-- Enlace de blancagiron -->                                                         |         |           |
 | <!-- Enlace de GaelGoncAlba -->                                                        |         |           |
 | <!--Enlace de abbonno-->                                                               |         |           |
