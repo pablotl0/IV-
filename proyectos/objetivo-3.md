@@ -1,5 +1,6 @@
 # Objetivo 2
 
+
 | URL                                                                           | Versión | Alcanzado |
 |-------------------------------------------------------------------------------|---------|-----------|
 | [Enlace de juanmaaf](https://github.com/juanmaaf/MoneyController/pull/13)     | v0.3.2  |           |
