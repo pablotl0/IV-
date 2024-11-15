@@ -37,7 +37,7 @@ iniciales.
 | <!-- Enlace de M S C -->                                                               |         |           |
 | <!-- Enlace de javiernavacapa -->                                                      |         |           |
 | <!-- Enlace de Carlosmapego8 -->                                                       |         |           |
-| [Enlace de Mario25402](https://github.com/eigenric/bibliofetch/pull/12)                | v0.2.3  |           |
+| [Enlace de Mario25402](https://github.com/eigenric/bibliofetch/pull/12)                | v0.2.4  |           |
 | <!-- Enlace de Pablorc7 -->                                                            |         |           |
 | <!-- Enlace de mrh117 -->                                                              |         |           |
 | <!-- Enlace de LuRDR -->                                                               |         |           |
