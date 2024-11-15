@@ -47,7 +47,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 ## Errores frecuentes
 
 Consulta los [errores frecuentes en el objetivo
-1](../errores/errores-objetivo-1.md) y [en el 2]((../errores/errores-objetivo-2.md) para
+1](../errores/objetivo-1.md) y [en el 2](../errores/objetivo-2.md) para
 tratar de evitarlos.
 
 ## Otras sesiones
