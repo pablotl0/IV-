@@ -25,7 +25,7 @@ iniciales.
 | <!-- Enlace de evaanngiil -->                                                          |         |           |
 | <!-- Enlace de blancagiron -->                                                         |         |           |
 | <!-- Enlace de GaelGoncAlba -->                                                        |         |           |
-| [Enlace de abbonno](https://github.com/mmnuria/PersonalSportCalendary/pull/15)         | v0.2.1  |           |
+| [Enlace de abbonno](https://github.com/mmnuria/PersonalSportCalendary/pull/15)         | v0.2.2  |           |
 | <!-- Enlace de oscargr-ugr -->                                                         |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                                 |         |           |
 | [Enlace de Matteo Imbrosciano](https://github.com/juanmaaf/MoneyController/pull/11)    | v0.2.1  | ✓         |
