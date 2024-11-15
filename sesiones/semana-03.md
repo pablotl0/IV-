@@ -52,7 +52,7 @@ En la clase conjunta del 4 de octubre continuaremos con el hackatón.
 
 ## Errores frecuentes
 
-Consulta los [errores frecuentes en el objetivo 0](../errores/errores-objetivo-0.md) y en el [objetivo 1](../errores/errores-objetivo-1.md) para
+Consulta los [errores frecuentes en el objetivo 0](../errores/objetivo-0.md) y en el [objetivo 1](../errores/objetivo-1.md) para
 tratar de evitarlos.
 
 ## Otras sesiones
