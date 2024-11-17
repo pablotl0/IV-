@@ -49,4 +49,4 @@ iniciales.
 | [Enlace de wickeet](https://github.com/MatteoImbrosciano/Medication-Management/pull/9) | v0.2.1  | ✓         |
 | <!-- Enlace de ChinChainis -->                                                         |         |           |
 | <!-- Enlace de anavaln -->                                                             |         |           |
-| [Enlace de pablotl0](https://github.com/evaanngiil/WishfulGiving/pull/18)              | v0.2.5  |           |
+| [Enlace de pablotl0](https://github.com/evaanngiil/WishfulGiving/pull/18)              | v0.2.6  |           |
