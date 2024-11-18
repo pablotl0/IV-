@@ -15,7 +15,7 @@ iniciales.
 | <!-- Enlace de sweetiepitie -->                                                                |         |           |
 | <!-- Enlace de jacarmona364 -->                                                                |         |           |
 | [Enlace de lmchaves](https://github.com/pablotl0/EnviroTrack/pull/10)                          | v0.2.1  |           |
-| [Enlace de FabriConde](https://github.com/juanbarearojo/privateChef/pull/15)                   | v0.2.6  | ✓         |
+| [Enlace de FabriConde](https://github.com/juanbarearojo/privateChef/pull/23)                   | v0.2.7  | ✓         |
 | <!-- Enlace de FerniCuesta -->                                                                 |         |           |
 | [Enlace de adiazcencillo](https://github.com/MarioRgzLpz/ArbitrageBets/pull/12)                | v0.2.2  | ✓         |
 | [Enlace de hossam1522](https://github.com/wickeet/Tripoli/pull/7)                              | v0.2.2  | ✓         |
