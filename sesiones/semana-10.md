@@ -1,4 +1,4 @@
-# Semana del 11 de Noviembre
+# Semana del 18 de Noviembre
 
 ## Antes de la clase
 
@@ -14,33 +14,18 @@ había entregado el objetivo 2, el 50% superado el objetivo 3 y el 75% el 2. El
 ## Objetivos alcanzados hasta ahora
 
 ```text
- 0 🧮: 19%🚧 75%✅  4%❌ ⇒ 
-     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌
- 1 🧮: 17%🚧 48%✅ 34%❌ ⇒ 
-     🚧 🚧 🚧 🚧 🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
- 2 🧮:  7%🚧 24%✅ 68%❌ ⇒ 
-     🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
- 3 🧮: 14%🚧  2%✅ 82%❌ ⇒ 
-     🚧 🚧 🚧 🚧 🚧 🚧
-     ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+
 ```
 
 ## Material de la asignatura
 
 Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 
-* [Objetivo 1 del
-   proyecto](http://jj.github.io/IV/documentos/proyecto/1.Planificacion),
 * [Objetivo 2 del proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo)
 * [Objetivo 3 del proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar)
-
+* [Objetivo 4 del
+  proyecto](http://jj.github.io/IV/documentos/proyecto/4.Tests)
+  
 ## Clases 14-15 de noviembre
 
 * Revisión del [objetivo 2 del
@@ -51,9 +36,9 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 ## Errores frecuentes
 
 Consulta los [errores frecuentes en el objetivo
-1](../errores/objetivo-1.md) y [en el 2](../errores/objetivo-2.md) para
+2](../errores/objetivo-2.md) y [en el 3](../errores/objetivo-3.md) para
 tratar de evitarlos.
 
 ## Otras sesiones
 
-[Semana anterior](semana-08.md) y [siguiente](semana-10.md)
+[Semana anterior](semana-09.md) y [siguiente](semana-11.md)
