@@ -109,6 +109,9 @@ en clase dedicado a la asignatura.
   son documentos de trabajo *reales* que ayudan en el proceso ingenieril de
   desarrollo de un producto.
 
+* ¿Ayuda en algo poner una "descripción" del milestone y luego un "entregable"?
+  ¿Para qué sirve?
+
 * Aunque los milestones en principio no tienen por qué tener información sobre
   las historias de usuario, si hay varias historias de usuario hablar de "modelo
   del problema" o de "lógica de negocio" no es suficiente, porque las dos
