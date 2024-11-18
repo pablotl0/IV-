@@ -7,9 +7,10 @@ entregado o superado ya en cursos anteriores)
 
 ### Objetivos superados
 
-A estas alturas del curso, en cursos anteriores y entre los aprobados, el 90%
-había entregado el objetivo 2, el 50% superado el objetivo 3 y el 75% el 2. El
-100% de los aprobados había entregado el objetivo 1 en la semana siguiente.
+A estas alturas del curso, en cursos anteriores y entre los aprobados
+
+- *Todos* habían entregado *y superado* el objetivo 1
+- El 75% había entregado el 3.
 
 ## Objetivos alcanzados hasta ahora
 
@@ -25,7 +26,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 * [Objetivo 3 del proyecto](http://jj.github.io/IV/documentos/proyecto/3.Automatizar)
 * [Objetivo 4 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/4.Tests)
-  
+
 ## Clases 14-15 de noviembre
 
 * Revisión del [objetivo 2 del
