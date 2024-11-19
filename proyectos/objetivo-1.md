@@ -13,9 +13,9 @@ iniciales.
 | [Enlace de juanbarearojo](https://github.com/juanbarearojo/privateChef/pull/2)                   | v0.1.2  | ✓         |
 | <!-- Enlace de sweetiepitie -->                                                                  |         |           |
 | [Enlace de jacarmona364](https://github.com/jacarmona364/Riskalc/pull/2)                         | v0.1.1  |           |
-| [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/8)                         | v0.1.2  | ✓          |
+| [Enlace de lmchaves](https://github.com/lmchaves/OrganizarTaller/pull/8)                         | v0.1.2  | ✓         |
 | [Enlace de FabriConde](https://github.com/FabriConde/IV-2024-2025/pull/4)                        | v0.1.1  | ✓         |
-| [Enlace de FerniCuesta](https://github.com/FerniCuesta/DrivePlanner/pull/2)                      | v0.1.2  |   ✓         |
+| [Enlace de FerniCuesta](https://github.com/FerniCuesta/DrivePlanner/pull/2)                      | v0.1.2  | ✓         |
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/5)                   | v0.1.1  | ✓         |
 | [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/7)                           | v0.1.1  | ✓         |
 | [Enlace de clara99gf](https://github.com/clara99gf/easy-gains/pull/7)                            | v0.1.2  |           |
@@ -24,7 +24,7 @@ iniciales.
 | [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/10)                      | v0.1.1  | ✓         |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/6)                      | v0.1.1  | ✓         |
 | [Enlace de GaelGoncalba](https://github.com/GaelGoncalba/AutoShopping/pull/5)                    | v0.1.2  |           |
-| [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/2)                           | v0.1.2  |   ✓        |
+| [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/2)                           | v0.1.2  | ✓         |
 | <!-- Enlace de oscargr-ugr -->                                                                   |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                                           |         |           |
 | [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/3) | v0.1.3  | ✓         |
@@ -32,10 +32,10 @@ iniciales.
 | <!-- Enlace de MCL-2024 -->                                                                      |         |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/2)                     | v0.1.4  | ✓         |
 | <!-- Enlace de joselopez10014 -->                                                                |         |           |
-| [Enlace de mmnuria](https://github.com/mmnuria/PersonalSportCalendary/pull/6)                    | v0.1.3  | ✓          |
+| [Enlace de mmnuria](https://github.com/mmnuria/PersonalSportCalendary/pull/6)                    | v0.1.3  | ✓         |
 | <!-- Enlace de M S C -->                                                                         |         |           |
 | <!-- Enlace de javiernavacapa -->                                                                |         |           |
-| [Enlace de Carlosmapego8](https://github.com/Carlosmapego8/GoMountain/pull/4)        | v0.1.1  |           |
+| [Enlace de Carlosmapego8](https://github.com/Carlosmapego8/GoMountain/pull/4)                    | v0.1.1  | ✓         |
 | [Enlace de Mario25402](https://github.com/Mario25402/AskETSIIT/pull/9)                           | v0.1.3  | ✓         |
 | <!-- Enlace de Pablorc7 -->                                                                      |         |           |
 | <!-- Enlace de mrh117 -->                                                                        |         |           |
@@ -48,5 +48,5 @@ iniciales.
 | [Enlace de wickeet](https://github.com/wickeet/Tripoli/pull/2)                                   | v0.1.2  | ✓         |
 | [Enlace de ChinChainis](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/5)    | v0.1.2  | ✓         |
 | <!-- Enlace de anavaln -->                                                                       |         |           |
-| [Enlace de pablotl0](https://github.com/pablotl0/EnviroTrack/pull/5)                             | v0.1.5  |  ✓         |
+| [Enlace de pablotl0](https://github.com/pablotl0/EnviroTrack/pull/5)                             | v0.1.5  | ✓         |
 
