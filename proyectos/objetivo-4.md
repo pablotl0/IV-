@@ -12,7 +12,7 @@
 | <!-- Enlace de FabriConde -->          |         |           |
 | <!-- Enlace de FerniCuesta -->         |         |           |
 | <!-- Enlace de adiazcencillo -->       |         |           |
-| <!-- Enlace de hossam1522 -->          |         |           |
+| [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/22)          |     v0.4.2    |           |
 | <!-- Enlace de clara99gf -->           |         |           |
 | <!-- Enlace de Antoniogm03 -->         |         |           |
 | <!-- Enlace de SantiGarvin -->         |         |           |
@@ -25,7 +25,7 @@
 | <!-- Enlace de MatteoImbrosciano -->   |         |           |
 | <!-- Enlace de Katakuri00 -->          |         |           |
 | <!-- Enlace de MCL-2024 -->            |         |           |
-| <!-- Enlace de JLombar -->             |         |           |
+| [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/20)            |   v0.4.2   |           |
 | <!-- Enlace de joselopez10014 -->      |         |           |
 | <!-- Enlace de mmnuria -->             |         |           |
 | <!-- Enlace de M S C -->               |         |           |
