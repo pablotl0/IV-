@@ -1,5 +1,8 @@
 # Errores comunes objetivo 3
 
+- Si la elección la pudiera hacer por ti una IA, la IA tomará las
+  decisiones por ti y te quedarás sin trabajo.
+
 - No establecer *de antemano* cuales son los criterios de elección de las
   diferentes herramientas.
 
