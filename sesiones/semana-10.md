@@ -15,7 +15,26 @@ A estas alturas del curso, en cursos anteriores y entre los aprobados
 ## Objetivos alcanzados hasta ahora
 
 ```text
-
+ 0 🧮: 19%🚧 75%✅  4%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌
+ 1 🧮: 12%🚧 56%✅ 31%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 2 🧮: 17%🚧 29%✅ 53%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 3 🧮: 12%🚧 12%✅ 75%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 4 🧮:  4%🚧  0%✅ 95%❌ ⇒ 
+     🚧 🚧
+     
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
 ```
 
 ## Material de la asignatura
@@ -27,7 +46,7 @@ Todo [el material de la asignatura está en GitHub](http://jj.github.io/IV).
 * [Objetivo 4 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/4.Tests)
 
-## Clases 14-15 de noviembre
+## Clases 21-22 de noviembre
 
 * Revisión del [objetivo 2 del
   proyecto](http://jj.github.io/IV/documentos/proyecto/2.Modelo) y sus conceptos
