@@ -28,7 +28,7 @@ iniciales.
 | <!-- Enlace de oscargr-ugr -->                                                                   |         |           |
 | <!-- Enlace de davidgutierrezperez -->                                                           |         |           |
 | [Enlace de MatteoImbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/3) | v0.1.3  | ✓         |
-| <!-- Enlace de Katakuri00 -->                                                                    |         |           |
+| [Enlace de Katakuri00](https://github.com/Katakuri00/iv_budgettracker/pull/5)                    | v0.1.1  |           |
 | <!-- Enlace de MCL-2024 -->                                                                      |         |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/2)                     | v0.1.4  | ✓         |
 | <!-- Enlace de joselopez10014 -->                                                                |         |           |
