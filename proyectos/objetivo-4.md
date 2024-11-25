@@ -9,7 +9,7 @@
 | <!-- Enlace de sweetiepitie -->        |         |           |
 | <!-- Enlace de jacarmona364 -->        |         |           |
 | <!-- Enlace de lmchaves -->            |         |           |
-| [Enlace de FabriConde](https://github.com/FabriConde/CLIMB-VR/pull/18)         |  v.0.4.2       |           |
+| [Enlace de FabriConde](https://github.com/FabriConde/CLIMB-VR/pull/18)         |  v.0.4.3       |           |
 | <!-- Enlace de FerniCuesta -->         |         |           |
 | <!-- Enlace de adiazcencillo -->       |         |           |
 | [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/22)          |     v0.4.2    |      ✓      |
