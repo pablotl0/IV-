@@ -49,3 +49,8 @@ El principal error es que la propia persona que lleva el repositorio no
   inmutables). Si no hay ninguna entidad programada, es muy posible que no se
   esté haciendo bien el modelo.
 
+- Es muy difícil que un modelo esté completo sin una entidad, que almacene los
+  objetos valor, incluya (más adelante) la lógica de negocio para crearlos, y
+  los relaciones unos con otros. Si no hay una entidad, o si no sabes si hay una
+  entidad o no, es que no está correcto.
+
