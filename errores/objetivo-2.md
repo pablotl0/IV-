@@ -54,3 +54,13 @@ El principal error es que la propia persona que lleva el repositorio no
   los relaciones unos con otros. Si no hay una entidad, o si no sabes si hay una
   entidad o no, es que no está correcto.
 
+- En cuanto a la entidad, es perfectamente válido empezar a agrupar datos en un
+  objeto valor cuando se va resolviendo un problema específico, poniendo una
+  clave y un valor en un mismo objeto. En general, manejar esto como objetos
+  independientes va a ser sumamente molesto, porque no permite buscar o
+  referirse al objeto por clave, o requiere que se repita la clave en la
+  estructura de datos donde te refieras a ella y en el propio objeto. Las
+  matrices asociativas/hashes/diccionarios o en general estructuras clave-valor
+  permiten modelizar mucho mejor este tipo de dato.
+  - En general, casi siempre que vayáis a crear un array de objetos, comprobad
+    dos y tres veces si esa es la mejor forma de hacer las cosas.
