@@ -22,7 +22,7 @@
 | <!-- Enlace de abbonno -->             |         |           |
 | <!-- Enlace de oscargr-ugr -->         |         |           |
 | <!-- Enlace de davidgutierrezperez --> |         |           |
-| [Enlace de Matteo Imbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/21) |     v0.4.1    |            |
+| [Enlace de Matteo Imbrosciano](https://github.com/MatteoImbrosciano/Medication-Management/pull/21) |     v0.4.2    |            |
 | <!-- Enlace de Katakuri00 -->          |         |           |
 | <!-- Enlace de MCL-2024 -->            |         |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/20)            |   v0.4.2   |           |
