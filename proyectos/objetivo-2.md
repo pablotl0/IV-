@@ -22,7 +22,7 @@ iniciales.
 | <!-- Enlace de clara99gf -->                                                                   |         |           |
 | <!-- Enlace de Antoniogm03 -->                                                                 |         |           |
 | <!-- Enlace de SantiGarvin -->                                                                 |         |           |
-| [Enlace de evaanngiil](https://github.com/lmchaves/OrganizarTaller/pull/14)                    | v0.2.4  |           |
+| [Enlace de evaanngiil](https://github.com/lmchaves/OrganizarTaller/pull/14)                    | v0.2.4  | ✓         |
 | [Enlace de blancagiron](https://github.com/ChinChainis/Proyecto_Reparahorarios_IV2425/pull/11) | v0.2.2  | ✓         |
 | <!-- Enlace de GaelGoncAlba -->                                                                |         |           |
 | [Enlace de abbonno](https://github.com/mmnuria/PersonalSportCalendary/pull/15)                 | v0.2.4  |           |
@@ -37,14 +37,14 @@ iniciales.
 | <!-- Enlace de M S C -->                                                                       |         |           |
 | <!-- Enlace de javiernavacapa -->                                                              |         |           |
 | <!-- Enlace de Carlosmapego8 -->                                                               |         |           |
-| [Enlace de Mario25402](https://github.com/eigenric/bibliofetch/pull/13)                        | v0.2.7  |      ✓     |
+| [Enlace de Mario25402](https://github.com/eigenric/bibliofetch/pull/13)                        | v0.2.7  | ✓         |
 | <!-- Enlace de Pablorc7 -->                                                                    |         |           |
 | <!-- Enlace de mrh117 -->                                                                      |         |           |
 | <!-- Enlace de LuRDR -->                                                                       |         |           |
 | [Enlace de MarioRgzLpz](https://github.com/antoniorr02/MenuConsulter/pull/12)                  | v0.2.1  | ✓         |
 | [Enlace de antoniorr02](https://github.com/giorgiogiovanni/PacketManager/pull/12)              | v0.2.3  | ✓         |
 | <!-- Enlace de alvarorcs2002 -->                                                               |         |           |
-| [Enlace de eigenric](https://github.com/Mario25402/AskETSIIT/pull/21)                          | v0.2.1  |          |
+| [Enlace de eigenric](https://github.com/Mario25402/AskETSIIT/pull/21)                          | v0.2.1  |           |
 | <!-- Enlace de enger2003 -->                                                                   |         |           |
 | [Enlace de wickeet](https://github.com/MatteoImbrosciano/Medication-Management/pull/9)         | v0.2.1  | ✓         |
 | <!-- Enlace de ChinChainis -->                                                                 |         |           |
