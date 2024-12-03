@@ -36,7 +36,7 @@ iniciales.
 | [Enlace de mmnuria](https://github.com/abbonno/healthScheduler/pull/10)                        | v0.2.6  |           |
 | <!-- Enlace de M S C -->                                                                       |         |           |
 | <!-- Enlace de javiernavacapa -->                                                              |         |           |
-| [Enlace de Carlosmapego8](https://github.com/FerniCuesta/DrivePlanner/pull/16)                 | v0.2.1  |            |
+| [Enlace de Carlosmapego8](https://github.com/FerniCuesta/DrivePlanner/pull/16)                 | v0.2.1  |           |
 | [Enlace de Mario25402](https://github.com/eigenric/bibliofetch/pull/13)                        | v0.2.7  | ✓         |
 | <!-- Enlace de Pablorc7 -->                                                                    |         |           |
 | <!-- Enlace de mrh117 -->                                                                      |         |           |
