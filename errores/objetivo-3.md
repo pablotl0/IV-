@@ -4,7 +4,9 @@
   decisiones por ti y te quedarás sin trabajo. Si se detecta el uso de
   herramientas de este tipo o se sospecha, se dejará de corregir inmediatamente
   indicando este hecho y se retrasará la corrección de la siguiente versión todo
-  lo posible.
+  lo posible. En caso de que se observe este comportamiento en ediciones
+  sucesivas, se podrá incluso dar por no superado este objetivo.
+  - Esto también se aplica a todos los objetivos siguientes.
 
 - No establecer *de antemano* cuales son los criterios de elección de las
   diferentes herramientas.
