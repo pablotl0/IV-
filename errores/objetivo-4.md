@@ -6,6 +6,12 @@
   tests. El tipo de esas herramientas, para las funcionalidades que se requieren
   en el objetivo, es lo que hay que hay que reflejar aquí.
 
+- En muchos casos, esto se debe a que se ha usado ChatGPT para generar los
+  criterios. Los criterios son algo que debe establecer la persona, no un modelo
+  de IA. Como se detecte el uso de herramientas de IA tanto en los criterios
+  como en la lista de posibles herramientas, se dejará de corregir y se
+  retrasará la corrección de la siguiente versión.
+
 - TDD no sólo es una metodología para escribir tests, es una para modularizar el
   código de forma que sea fácil de testear y para que sea más fácil de entender,
   refactorizar y evolucionar. Para hacer esto lo más importante, entre los

@@ -1,7 +1,10 @@
 # Errores comunes objetivo 3
 
 - Si la elección la pudiera hacer por ti una IA, la IA tomará las
-  decisiones por ti y te quedarás sin trabajo.
+  decisiones por ti y te quedarás sin trabajo. Si se detecta el uso de
+  herramientas de este tipo o se sospecha, se dejará de corregir inmediatamente
+  indicando este hecho y se retrasará la corrección de la siguiente versión todo
+  lo posible.
 
 - No establecer *de antemano* cuales son los criterios de elección de las
   diferentes herramientas.
