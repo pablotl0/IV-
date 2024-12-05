@@ -19,7 +19,7 @@ iniciales.
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/5)                   | v0.1.1  | ✓         |
 | [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/7)                           | v0.1.1  | ✓         |
 | [Enlace de clara99gf](https://github.com/clara99gf/easy-gains/pull/7)                            | v0.1.2  |           |
-| [Enlace de Antoniogm03](https://github.com/Antoniogm03/RepartoComida/pull/3)                     | v0.1.2  |           |
+| [Enlace de Antoniogm03](https://github.com/Antoniogm03/RepartoComida/pull/3)                     | v0.1.2  |  ✓        |
 | <!-- Enlace de SantiGarvin -->                                                                   |         |           |
 | [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/10)                      | v0.1.1  | ✓         |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/6)                      | v0.1.1  | ✓         |
