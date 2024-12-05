@@ -19,7 +19,7 @@ iniciales.
 | [Enlace de adiazcencillo](https://github.com/adiazcencillo/GranadaInfo/pull/5)                   | v0.1.1  | ✓         |
 | [Enlace de hossam1522](https://github.com/hossam1522/ModaTrack/pull/7)                           | v0.1.1  | ✓         |
 | [Enlace de clara99gf](https://github.com/clara99gf/easy-gains/pull/7)                            | v0.1.2  |           |
-| [Enlace de Antoniogm03](https://github.com/Antoniogm03/RepartoComida/pull/3)                     | v0.1.2  |           |
+| [Enlace de Antoniogm03](https://github.com/Antoniogm03/RepartoComida/pull/3)                     | v0.1.2  |  ✓        |
 | <!-- Enlace de SantiGarvin -->                                                                   |         |           |
 | [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/10)                      | v0.1.1  | ✓         |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/6)                      | v0.1.1  | ✓         |
@@ -31,7 +31,7 @@ iniciales.
 | [Enlace de Katakuri00](https://github.com/Katakuri00/iv_budgettracker/pull/5)                    | v0.1.1  |           |
 | <!-- Enlace de MCL-2024 -->                                                                      |         |           |
 | [Enlace de JLombar](https://github.com/JLombar/HorariosAutomatricula/pull/2)                     | v0.1.4  | ✓         |
-| <!-- Enlace de joselopez10014 -->                                                                |         |           |
+| [Enlace de joselopez10014](https://github.com/joselopez10014/OrganizadorVJ/pull/4)               | v0.1.2  |           |
 | [Enlace de mmnuria](https://github.com/mmnuria/PersonalSportCalendary/pull/6)                    | v0.1.3  | ✓         |
 | <!-- Enlace de M S C -->                                                                         |         |           |
 | <!-- Enlace de javiernavacapa -->                                                                |         |           |
