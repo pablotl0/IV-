@@ -14,7 +14,7 @@ iniciales.
 | [Enlace de juanbarearojo](https://github.com/hossam1522/ModaTrack/pull/9)                      | v0.2.4  | ✓         |
 | <!-- Enlace de sweetiepitie -->                                                                |         |           |
 | <!-- Enlace de jacarmona364 -->                                                                |         |           |
-| [Enlace de lmchaves](https://github.com/pablotl0/EnviroTrack/pull/10)                          | v0.2.1  |           |
+| [Enlace de lmchaves](https://github.com/pablotl0/EnviroTrack/pull/10)                          | v0.2.1  | ✓         |
 | [Enlace de FabriConde](https://github.com/juanbarearojo/privateChef/pull/23)                   | v0.2.7  | ✓         |
 | [Enlace de FerniCuesta](https://github.com/Carlosmapego8/GoMountain/pull/12)                   | v0.2.2  |           |
 | [Enlace de adiazcencillo](https://github.com/MarioRgzLpz/ArbitrageBets/pull/12)                | v0.2.2  | ✓         |
@@ -49,5 +49,5 @@ iniciales.
 | [Enlace de wickeet](https://github.com/MatteoImbrosciano/Medication-Management/pull/9)         | v0.2.1  | ✓         |
 | <!-- Enlace de ChinChainis -->                                                                 |         |           |
 | <!-- Enlace de anavaln -->                                                                     |         |           |
-| [Enlace de pablotl0](https://github.com/evaanngiil/WishfulGiving/pull/18)                      | v0.2.7  | ✓        |
+| [Enlace de pablotl0](https://github.com/evaanngiil/WishfulGiving/pull/18)                      | v0.2.7  | ✓         |
 
