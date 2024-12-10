@@ -20,3 +20,13 @@
   - Si te preguntas si una función hace una sola cosa y solo una, en el momento
     que tengas más de un bucle o más de un `if` y sobre todo `if`s anidados, ya
     estás haciendo más de una cosa.
+
+## Sobre las diferentes herramientas
+
+- Listar ventajas y desventajas no es un proceso objetivo, y sobre todo no tiene
+  nada que ver con los criterios que se hayan elegido. Si las desventajas son
+  razones para descartarlo, se debe incluir un criterio que permita descartarlos
+  por esa razón.
+
+- En general, sólo se debe incluir la información que permita entender por qué
+  se ha elegido una u otra.
