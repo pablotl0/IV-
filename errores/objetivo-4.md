@@ -30,3 +30,9 @@
 
 - En general, sólo se debe incluir la información que permita entender por qué
   se ha elegido una u otra.
+
+- Conviene confundir el comando que ejecuta los test, que es un comando
+  *externo* al lenguaje, aunque puede ser también un subcomando del toolchain
+  del lenguaje, y que *se llama test runner* porque ejecuta los tests, de la
+  biblioteca que agrupa los tests y que permite crear *fixtures*. Como se ve,
+  son funciones muy diferentes.
