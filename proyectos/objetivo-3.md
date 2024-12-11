@@ -30,7 +30,7 @@
 | <!-- Enlace de mmnuria -->                                                                        |         |           |
 | <!-- Enlace de M S C -->                                                                          |         |           |
 | <!-- Enlace de javiernavacapa -->                                                                 |         |           |
-| <!-- Enlace de Carlosmapego8 -->                                                                  |         |           |
+| [Enlace de Carlosmapego8](https://github.com/Carlosmapego8/GoMountain/pull/16)                    | v0.3.1  |           |
 | [Enlace de Mario25402](https://github.com/Mario25402/AskETSIIT/pull/24)                           | v0.3.6  |           |
 | <!-- Enlace de Pablorc7 -->                                                                       |         |           |
 | <!-- Enlace de mrh117 -->                                                                         |         |           |
