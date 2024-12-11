@@ -26,6 +26,8 @@
 | FerniCuesta       | Carlosmapego8            |
 | jacarmona364      | GaelGoncalba             |
 | GaelGoncalba      | jacarmona364             |
+| Katakuri00        | Antoniogm03              |
+
 
 
 
